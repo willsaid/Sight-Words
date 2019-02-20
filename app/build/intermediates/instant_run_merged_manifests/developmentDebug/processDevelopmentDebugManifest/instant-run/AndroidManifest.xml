@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hearatale.phonics.dev"
+    package="com.hearatale.sightwords.dev"
     android:versionCode="123"
     android:versionName="1.2.3" >
 
@@ -82,12 +82,12 @@
 
         <provider
             android:name="com.crashlytics.android.CrashlyticsInitProvider"
-            android:authorities="com.hearatale.phonics.dev.crashlyticsinitprovider"
+            android:authorities="com.hearatale.sightwords.dev.crashlyticsinitprovider"
             android:exported="false"
             android:initOrder="90" />
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.hearatale.phonics.dev.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.hearatale.sightwords.dev.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

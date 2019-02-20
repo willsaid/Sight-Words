@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
 MERGED from [com.android.support:design:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/AndroidManifest.xml:17:1-22:12
 MERGED from [com.jakewharton:butterknife:8.8.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/8e913bd22d5989f0e188f25367d098b4/AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7b32f3041ba670adc80e019b4091773b/AndroidManifest.xml:17:1-22:12
@@ -32,33 +32,33 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/YizraGhebre/.gra
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda4e2c15edeb7ac649fc5077c3d4283/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7749a20255f6ab44ed328b119f7acf1c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/335f3621252352b271e66d0af4283cf4/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
 	package
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:3:5-39
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:1-88:12
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:5:5-81
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:6:22-77
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:6:22-77
 uses-permission#android.permission.INTERNET
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:7:5-67
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:52:5-67
@@ -70,9 +70,9 @@ MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle
 MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:29:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:9:5-86:19
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:9:5-86:19
 MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:12:5-20
 MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:12:5-20
 MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5e66e8fa58a2c61a8f75c66ae690a70e/AndroidManifest.xml:10:5-20
@@ -92,133 +92,133 @@ MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle
 MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:31:5-20
 MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:31:5-20
 	android:supportsRtl
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:10:9-36
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:10:9-36
 activity#com.hearatale.sightwords.ui.splash.SplashActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:18:9-26:20
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:20:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:20:13-50
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:19:13-53
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:19:13-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.hearatale.sightwords.ui.main.MainActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:28:9-31:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:28:9-31:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:31:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:31:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:30:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:30:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:29:13-49
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:29:13-49
 activity#com.hearatale.sightwords.ui.simple_alphabet.SimpleAlphabetActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:33:9-36:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:33:9-36:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:36:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:36:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:35:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:35:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:34:13-70
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:34:13-70
 activity#com.hearatale.sightwords.ui.letter.LetterActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:38:9-41:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:38:9-41:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:41:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:41:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:40:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:40:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:39:13-53
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:39:13-53
 activity#com.hearatale.sightwords.ui.quiz.QuizActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:43:9-46:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:43:9-46:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:46:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:46:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:45:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:45:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:44:13-49
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:44:13-49
 activity#com.hearatale.sightwords.ui.idiom.IdiomActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:48:9-51:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:48:9-51:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:51:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:51:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:50:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:50:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:49:13-51
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:49:13-51
 activity#com.hearatale.sightwords.ui.quiz_puzzle.QuizPuzzleActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:53:9-56:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:53:9-56:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:56:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:56:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:55:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:55:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:54:13-62
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:54:13-62
 activity#com.hearatale.sightwords.ui.quiz_sight_words.QuizSightWordsActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:58:9-61:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:58:9-61:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:61:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:61:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:60:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:60:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:59:13-71
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:59:13-71
 activity#com.hearatale.sightwords.ui.sight_word.SightWordActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:63:9-66:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:63:9-66:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:66:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:66:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:65:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:65:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:64:13-60
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:64:13-60
 activity#com.hearatale.sightwords.ui.sentence.SentenceActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:68:9-71:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:68:9-71:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:71:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:71:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:70:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:70:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:69:13-57
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:69:13-57
 activity#com.hearatale.sightwords.ui.secret_stuff.SecretStuffActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:73:9-76:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:73:9-76:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:76:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:76:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:75:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:75:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:74:13-64
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:74:13-64
 activity#com.hearatale.sightwords.ui.bank.BankActivity
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:78:9-81:53
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:78:9-81:53
 	android:screenOrientation
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:81:13-50
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:81:13-50
 	android:configChanges
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:80:13-74
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:80:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:79:13-49
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:79:13-49
 meta-data#io.fabric.ApiKey
-ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:83:9-85:72
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:83:9-85:72
 	android:value
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:85:13-69
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:85:13-69
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml:84:13-44
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:84:13-44
 uses-sdk
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/AndroidManifest.xml:20:5-44
 MERGED from [com.jakewharton:butterknife:8.8.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/8e913bd22d5989f0e188f25367d098b4/AndroidManifest.xml:5:5-43
@@ -275,16 +275,16 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/YizraGhebre/.gradle/ca
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7749a20255f6ab44ed328b119f7acf1c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/335f3621252352b271e66d0af4283cf4/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/335f3621252352b271e66d0af4283cf4/AndroidManifest.xml:20:5-44
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 provider#com.crashlytics.android.CrashlyticsInitProvider
 ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:12:9-16:38
 	android:authorities

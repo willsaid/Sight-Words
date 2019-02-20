@@ -2198,7 +2198,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td></td></tr>
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -4867,35 +4867,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.hearatale.phonics.dev:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.hearatale.phonics.dev:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.hearatale.phonics.dev:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.hearatale.phonics.dev:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.hearatale.phonics.dev:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.hearatale.phonics.dev:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.hearatale.phonics.dev:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.hearatale.phonics.dev:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.hearatale.phonics.dev:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.hearatale.phonics.dev:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.hearatale.phonics.dev:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.hearatale.phonics.dev:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.hearatale.phonics.dev:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.hearatale.phonics.dev:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.hearatale.phonics.dev:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.hearatale.phonics.dev:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.hearatale.phonics.dev:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.hearatale.phonics.dev:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.hearatale.phonics.dev:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.hearatale.phonics.dev:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.hearatale.phonics.dev:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.hearatale.phonics.dev:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.hearatale.phonics.dev:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.hearatale.phonics.dev:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.hearatale.phonics.dev:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.hearatale.phonics.dev:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.hearatale.phonics.dev:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.hearatale.phonics.dev:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.hearatale.phonics.dev:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.hearatale.sightwords.dev:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.hearatale.sightwords.dev:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.hearatale.sightwords.dev:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.hearatale.sightwords.dev:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.hearatale.sightwords.dev:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.hearatale.sightwords.dev:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.hearatale.sightwords.dev:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.hearatale.sightwords.dev:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.hearatale.sightwords.dev:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.hearatale.sightwords.dev:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.hearatale.sightwords.dev:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.hearatale.sightwords.dev:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.hearatale.sightwords.dev:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.hearatale.sightwords.dev:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.hearatale.sightwords.dev:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.hearatale.sightwords.dev:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.hearatale.sightwords.dev:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.hearatale.sightwords.dev:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.hearatale.sightwords.dev:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.hearatale.sightwords.dev:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.hearatale.sightwords.dev:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.hearatale.sightwords.dev:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.hearatale.sightwords.dev:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.hearatale.sightwords.dev:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.hearatale.sightwords.dev:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.hearatale.sightwords.dev:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.hearatale.sightwords.dev:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.hearatale.sightwords.dev:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.hearatale.sightwords.dev:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4938,7 +4938,7 @@ public final class R {
       0x7f0301a3
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4946,11 +4946,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:background
+     * @attr name com.hearatale.sightwords.dev:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4961,11 +4961,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:backgroundSplit
+     * @attr name com.hearatale.sightwords.dev:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4976,11 +4976,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:backgroundStacked
+     * @attr name com.hearatale.sightwords.dev:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4989,11 +4989,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetEnd
+     * @attr name com.hearatale.sightwords.dev:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5002,11 +5002,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetEndWithActions
+     * @attr name com.hearatale.sightwords.dev:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5015,11 +5015,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetLeft
+     * @attr name com.hearatale.sightwords.dev:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5028,11 +5028,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetRight
+     * @attr name com.hearatale.sightwords.dev:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5041,11 +5041,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetStart
+     * @attr name com.hearatale.sightwords.dev:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5054,11 +5054,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetStartWithNavigation
+     * @attr name com.hearatale.sightwords.dev:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5066,11 +5066,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:customNavigationLayout
+     * @attr name com.hearatale.sightwords.dev:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5088,11 +5088,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:displayOptions
+     * @attr name com.hearatale.sightwords.dev:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5100,11 +5100,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:divider
+     * @attr name com.hearatale.sightwords.dev:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5113,11 +5113,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:elevation
+     * @attr name com.hearatale.sightwords.dev:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5126,21 +5126,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:height
+     * @attr name com.hearatale.sightwords.dev:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:hideOnContentScroll
+     * @attr name com.hearatale.sightwords.dev:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5148,11 +5148,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:homeAsUpIndicator
+     * @attr name com.hearatale.sightwords.dev:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5160,11 +5160,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:homeLayout
+     * @attr name com.hearatale.sightwords.dev:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5172,11 +5172,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:icon
+     * @attr name com.hearatale.sightwords.dev:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5184,11 +5184,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:indeterminateProgressStyle
+     * @attr name com.hearatale.sightwords.dev:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5197,11 +5197,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:itemPadding
+     * @attr name com.hearatale.sightwords.dev:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5209,11 +5209,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:logo
+     * @attr name com.hearatale.sightwords.dev:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5227,11 +5227,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:navigationMode
+     * @attr name com.hearatale.sightwords.dev:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5239,11 +5239,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:popupTheme
+     * @attr name com.hearatale.sightwords.dev:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5252,11 +5252,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:progressBarPadding
+     * @attr name com.hearatale.sightwords.dev:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5264,21 +5264,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:progressBarStyle
+     * @attr name com.hearatale.sightwords.dev:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:subtitle
+     * @attr name com.hearatale.sightwords.dev:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5286,21 +5286,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:subtitleTextStyle
+     * @attr name com.hearatale.sightwords.dev:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:title
+     * @attr name com.hearatale.sightwords.dev:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5308,7 +5308,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:titleTextStyle
+     * @attr name com.hearatale.sightwords.dev:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -5390,12 +5390,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.hearatale.phonics.dev:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.hearatale.phonics.dev:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.hearatale.phonics.dev:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.hearatale.phonics.dev:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.hearatale.phonics.dev:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.hearatale.phonics.dev:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.hearatale.sightwords.dev:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.hearatale.sightwords.dev:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.hearatale.sightwords.dev:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.hearatale.sightwords.dev:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.hearatale.sightwords.dev:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.hearatale.sightwords.dev:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -5409,7 +5409,7 @@ public final class R {
       0x7f03016a, 0x7f0301a3
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5417,11 +5417,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:background
+     * @attr name com.hearatale.sightwords.dev:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5432,11 +5432,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:backgroundSplit
+     * @attr name com.hearatale.sightwords.dev:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5444,11 +5444,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:closeItemLayout
+     * @attr name com.hearatale.sightwords.dev:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5457,11 +5457,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:height
+     * @attr name com.hearatale.sightwords.dev:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5469,11 +5469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:subtitleTextStyle
+     * @attr name com.hearatale.sightwords.dev:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5481,7 +5481,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:titleTextStyle
+     * @attr name com.hearatale.sightwords.dev:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5491,8 +5491,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.hearatale.phonics.dev:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.hearatale.phonics.dev:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.hearatale.sightwords.dev:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.hearatale.sightwords.dev:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5501,7 +5501,7 @@ public final class R {
       0x7f030099, 0x7f0300c8
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5509,17 +5509,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:expandActivityOverflowButtonDrawable
+     * @attr name com.hearatale.sightwords.dev:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:initialActivityCount
+     * @attr name com.hearatale.sightwords.dev:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5530,13 +5530,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.hearatale.phonics.dev:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.hearatale.phonics.dev:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.hearatale.phonics.dev:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.hearatale.phonics.dev:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.hearatale.phonics.dev:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.hearatale.phonics.dev:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.hearatale.phonics.dev:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.hearatale.sightwords.dev:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.hearatale.sightwords.dev:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.hearatale.sightwords.dev:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.hearatale.sightwords.dev:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.hearatale.sightwords.dev:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.hearatale.sightwords.dev:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.hearatale.sightwords.dev:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -5564,7 +5564,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5573,11 +5573,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:buttonIconDimen
+     * @attr name com.hearatale.sightwords.dev:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5585,11 +5585,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonPanelSideLayout
+     * @attr name com.hearatale.sightwords.dev:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5597,11 +5597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:listItemLayout
+     * @attr name com.hearatale.sightwords.dev:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5609,11 +5609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:listLayout
+     * @attr name com.hearatale.sightwords.dev:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5621,21 +5621,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:multiChoiceItemLayout
+     * @attr name com.hearatale.sightwords.dev:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:showTitle
+     * @attr name com.hearatale.sightwords.dev:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5643,7 +5643,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:singleChoiceItemLayout
+     * @attr name com.hearatale.sightwords.dev:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -5656,8 +5656,8 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.hearatale.phonics.dev:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.hearatale.phonics.dev:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.hearatale.sightwords.dev:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.hearatale.sightwords.dev:expanded}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -5705,7 +5705,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_keyboardNavigationCluster=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5714,17 +5714,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:elevation
+     * @attr name com.hearatale.sightwords.dev:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:expanded
+     * @attr name com.hearatale.sightwords.dev:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -5734,8 +5734,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.hearatale.phonics.dev:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.hearatale.phonics.dev:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.hearatale.sightwords.dev:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.hearatale.sightwords.dev:state_collapsible}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -5744,23 +5744,23 @@ public final class R {
       0x7f030161, 0x7f030162
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:state_collapsed
+     * @attr name com.hearatale.sightwords.dev:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:state_collapsible
+     * @attr name com.hearatale.sightwords.dev:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
@@ -5770,8 +5770,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.hearatale.phonics.dev:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.hearatale.phonics.dev:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.hearatale.sightwords.dev:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.hearatale.sightwords.dev:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -5780,7 +5780,7 @@ public final class R {
       0x7f03010e, 0x7f03010f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5796,11 +5796,11 @@ public final class R {
      * <tr><td>snap</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_scrollFlags
+     * @attr name com.hearatale.sightwords.dev:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5808,7 +5808,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_scrollInterpolator
+     * @attr name com.hearatale.sightwords.dev:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -5819,9 +5819,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.hearatale.phonics.dev:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.hearatale.phonics.dev:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.hearatale.phonics.dev:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.hearatale.sightwords.dev:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.hearatale.sightwords.dev:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.hearatale.sightwords.dev:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5847,7 +5847,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5855,22 +5855,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:srcCompat
+     * @attr name com.hearatale.sightwords.dev:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tint
+     * @attr name com.hearatale.sightwords.dev:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5887,7 +5887,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:tintMode
+     * @attr name com.hearatale.sightwords.dev:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5898,9 +5898,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.hearatale.phonics.dev:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.hearatale.phonics.dev:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.hearatale.phonics.dev:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.hearatale.sightwords.dev:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.hearatale.sightwords.dev:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.hearatale.sightwords.dev:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5923,7 +5923,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5931,22 +5931,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tickMark
+     * @attr name com.hearatale.sightwords.dev:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tickMarkTint
+     * @attr name com.hearatale.sightwords.dev:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5963,7 +5963,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:tickMarkTintMode
+     * @attr name com.hearatale.sightwords.dev:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -6103,13 +6103,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.hearatale.phonics.dev:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.hearatale.phonics.dev:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.hearatale.phonics.dev:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.hearatale.phonics.dev:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.hearatale.phonics.dev:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.hearatale.phonics.dev:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.hearatale.phonics.dev:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.hearatale.sightwords.dev:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.hearatale.sightwords.dev:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.hearatale.sightwords.dev:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.hearatale.sightwords.dev:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.hearatale.sightwords.dev:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.hearatale.sightwords.dev:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.hearatale.sightwords.dev:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -6137,7 +6137,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6146,11 +6146,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:autoSizeMaxTextSize
+     * @attr name com.hearatale.sightwords.dev:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6159,11 +6159,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:autoSizeMinTextSize
+     * @attr name com.hearatale.sightwords.dev:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6171,11 +6171,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:autoSizePresetSizes
+     * @attr name com.hearatale.sightwords.dev:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6184,11 +6184,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:autoSizeStepGranularity
+     * @attr name com.hearatale.sightwords.dev:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6201,21 +6201,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:autoSizeTextType
+     * @attr name com.hearatale.sightwords.dev:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:fontFamily
+     * @attr name com.hearatale.sightwords.dev:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6225,7 +6225,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAllCaps
+     * @attr name com.hearatale.sightwords.dev:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -6237,124 +6237,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.hearatale.phonics.dev:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.hearatale.phonics.dev:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.hearatale.phonics.dev:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.hearatale.phonics.dev:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.hearatale.phonics.dev:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.hearatale.phonics.dev:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.hearatale.phonics.dev:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.hearatale.phonics.dev:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.hearatale.phonics.dev:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.hearatale.phonics.dev:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.hearatale.phonics.dev:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.hearatale.phonics.dev:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.hearatale.phonics.dev:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.hearatale.phonics.dev:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.hearatale.phonics.dev:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.hearatale.phonics.dev:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.hearatale.phonics.dev:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.hearatale.phonics.dev:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.hearatale.phonics.dev:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.hearatale.phonics.dev:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.hearatale.phonics.dev:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.hearatale.phonics.dev:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.hearatale.phonics.dev:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.hearatale.phonics.dev:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.hearatale.phonics.dev:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.hearatale.phonics.dev:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.hearatale.phonics.dev:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.hearatale.phonics.dev:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.hearatale.phonics.dev:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.hearatale.phonics.dev:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.hearatale.phonics.dev:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.hearatale.phonics.dev:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.hearatale.phonics.dev:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.hearatale.phonics.dev:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.hearatale.phonics.dev:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.hearatale.phonics.dev:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.hearatale.phonics.dev:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.hearatale.phonics.dev:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.hearatale.phonics.dev:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.hearatale.phonics.dev:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.hearatale.phonics.dev:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.hearatale.phonics.dev:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.hearatale.phonics.dev:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.hearatale.phonics.dev:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.hearatale.phonics.dev:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.hearatale.phonics.dev:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.hearatale.phonics.dev:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.hearatale.phonics.dev:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.hearatale.phonics.dev:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.hearatale.phonics.dev:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.hearatale.phonics.dev:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.hearatale.phonics.dev:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.hearatale.phonics.dev:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.hearatale.phonics.dev:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.hearatale.phonics.dev:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.hearatale.phonics.dev:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.hearatale.phonics.dev:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.hearatale.phonics.dev:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.hearatale.phonics.dev:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.hearatale.phonics.dev:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.hearatale.phonics.dev:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.hearatale.phonics.dev:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.hearatale.phonics.dev:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.hearatale.phonics.dev:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.hearatale.phonics.dev:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.hearatale.phonics.dev:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.hearatale.phonics.dev:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.hearatale.phonics.dev:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.hearatale.phonics.dev:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.hearatale.phonics.dev:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.hearatale.phonics.dev:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.hearatale.phonics.dev:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.hearatale.phonics.dev:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.hearatale.phonics.dev:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.hearatale.phonics.dev:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.hearatale.phonics.dev:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.hearatale.phonics.dev:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.hearatale.phonics.dev:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.hearatale.phonics.dev:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.hearatale.phonics.dev:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.hearatale.phonics.dev:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.hearatale.phonics.dev:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.hearatale.phonics.dev:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.hearatale.phonics.dev:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.hearatale.phonics.dev:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.hearatale.phonics.dev:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.hearatale.phonics.dev:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.hearatale.phonics.dev:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.hearatale.phonics.dev:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.hearatale.phonics.dev:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.hearatale.phonics.dev:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.hearatale.phonics.dev:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.hearatale.phonics.dev:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.hearatale.phonics.dev:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.hearatale.phonics.dev:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.hearatale.phonics.dev:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.hearatale.phonics.dev:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.hearatale.phonics.dev:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.hearatale.phonics.dev:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.hearatale.phonics.dev:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.hearatale.phonics.dev:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.hearatale.phonics.dev:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.hearatale.phonics.dev:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.hearatale.phonics.dev:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.hearatale.phonics.dev:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.hearatale.phonics.dev:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.hearatale.phonics.dev:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.hearatale.phonics.dev:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.hearatale.phonics.dev:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.hearatale.phonics.dev:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.hearatale.phonics.dev:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.hearatale.phonics.dev:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.hearatale.phonics.dev:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.hearatale.phonics.dev:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.hearatale.phonics.dev:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.hearatale.phonics.dev:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.hearatale.phonics.dev:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.hearatale.phonics.dev:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.hearatale.sightwords.dev:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.hearatale.sightwords.dev:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.hearatale.sightwords.dev:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.hearatale.sightwords.dev:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.hearatale.sightwords.dev:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.hearatale.sightwords.dev:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.hearatale.sightwords.dev:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.hearatale.sightwords.dev:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.hearatale.sightwords.dev:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.hearatale.sightwords.dev:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.hearatale.sightwords.dev:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.hearatale.sightwords.dev:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.hearatale.sightwords.dev:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.hearatale.sightwords.dev:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.hearatale.sightwords.dev:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.hearatale.sightwords.dev:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.hearatale.sightwords.dev:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.hearatale.sightwords.dev:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.hearatale.sightwords.dev:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.hearatale.sightwords.dev:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.hearatale.sightwords.dev:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.hearatale.sightwords.dev:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.hearatale.sightwords.dev:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.hearatale.sightwords.dev:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.hearatale.sightwords.dev:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.hearatale.sightwords.dev:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.hearatale.sightwords.dev:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.hearatale.sightwords.dev:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.hearatale.sightwords.dev:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.hearatale.sightwords.dev:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.hearatale.sightwords.dev:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.hearatale.sightwords.dev:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.hearatale.sightwords.dev:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.hearatale.sightwords.dev:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.hearatale.sightwords.dev:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.hearatale.sightwords.dev:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.hearatale.sightwords.dev:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.hearatale.sightwords.dev:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.hearatale.sightwords.dev:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.hearatale.sightwords.dev:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.hearatale.sightwords.dev:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.hearatale.sightwords.dev:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.hearatale.sightwords.dev:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.hearatale.sightwords.dev:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.hearatale.sightwords.dev:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.hearatale.sightwords.dev:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.hearatale.sightwords.dev:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.hearatale.sightwords.dev:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.hearatale.sightwords.dev:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.hearatale.sightwords.dev:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.hearatale.sightwords.dev:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.hearatale.sightwords.dev:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.hearatale.sightwords.dev:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.hearatale.sightwords.dev:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.hearatale.sightwords.dev:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.hearatale.sightwords.dev:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.hearatale.sightwords.dev:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.hearatale.sightwords.dev:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.hearatale.sightwords.dev:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.hearatale.sightwords.dev:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.hearatale.sightwords.dev:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.hearatale.sightwords.dev:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.hearatale.sightwords.dev:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.hearatale.sightwords.dev:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.hearatale.sightwords.dev:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.hearatale.sightwords.dev:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.hearatale.sightwords.dev:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.hearatale.sightwords.dev:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.hearatale.sightwords.dev:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.hearatale.sightwords.dev:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.hearatale.sightwords.dev:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.hearatale.sightwords.dev:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.hearatale.sightwords.dev:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.hearatale.sightwords.dev:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.hearatale.sightwords.dev:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.hearatale.sightwords.dev:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.hearatale.sightwords.dev:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.hearatale.sightwords.dev:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.hearatale.sightwords.dev:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.hearatale.sightwords.dev:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.hearatale.sightwords.dev:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.hearatale.sightwords.dev:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.hearatale.sightwords.dev:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.hearatale.sightwords.dev:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.hearatale.sightwords.dev:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.hearatale.sightwords.dev:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.hearatale.sightwords.dev:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.hearatale.sightwords.dev:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.hearatale.sightwords.dev:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.hearatale.sightwords.dev:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.hearatale.sightwords.dev:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.hearatale.sightwords.dev:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.hearatale.sightwords.dev:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.hearatale.sightwords.dev:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.hearatale.sightwords.dev:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.hearatale.sightwords.dev:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.hearatale.sightwords.dev:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.hearatale.sightwords.dev:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.hearatale.sightwords.dev:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.hearatale.sightwords.dev:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.hearatale.sightwords.dev:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.hearatale.sightwords.dev:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.hearatale.sightwords.dev:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.hearatale.sightwords.dev:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.hearatale.sightwords.dev:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.hearatale.sightwords.dev:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.hearatale.sightwords.dev:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.hearatale.sightwords.dev:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.hearatale.sightwords.dev:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.hearatale.sightwords.dev:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.hearatale.sightwords.dev:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.hearatale.sightwords.dev:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.hearatale.sightwords.dev:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.hearatale.sightwords.dev:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.hearatale.sightwords.dev:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.hearatale.sightwords.dev:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.hearatale.sightwords.dev:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.hearatale.sightwords.dev:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6532,7 +6532,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6540,11 +6540,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarDivider
+     * @attr name com.hearatale.sightwords.dev:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6552,11 +6552,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarItemBackground
+     * @attr name com.hearatale.sightwords.dev:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6564,11 +6564,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarPopupTheme
+     * @attr name com.hearatale.sightwords.dev:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6585,11 +6585,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:actionBarSize
+     * @attr name com.hearatale.sightwords.dev:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6597,11 +6597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarSplitStyle
+     * @attr name com.hearatale.sightwords.dev:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6609,11 +6609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarStyle
+     * @attr name com.hearatale.sightwords.dev:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6621,11 +6621,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarTabBarStyle
+     * @attr name com.hearatale.sightwords.dev:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6633,11 +6633,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarTabStyle
+     * @attr name com.hearatale.sightwords.dev:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6645,11 +6645,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarTabTextStyle
+     * @attr name com.hearatale.sightwords.dev:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6657,11 +6657,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarTheme
+     * @attr name com.hearatale.sightwords.dev:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6669,11 +6669,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionBarWidgetTheme
+     * @attr name com.hearatale.sightwords.dev:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6681,11 +6681,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionButtonStyle
+     * @attr name com.hearatale.sightwords.dev:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6693,11 +6693,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionDropDownStyle
+     * @attr name com.hearatale.sightwords.dev:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6705,11 +6705,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionMenuTextAppearance
+     * @attr name com.hearatale.sightwords.dev:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6720,11 +6720,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionMenuTextColor
+     * @attr name com.hearatale.sightwords.dev:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6732,11 +6732,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeBackground
+     * @attr name com.hearatale.sightwords.dev:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6744,11 +6744,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeCloseButtonStyle
+     * @attr name com.hearatale.sightwords.dev:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6756,11 +6756,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeCloseDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6768,11 +6768,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeCopyDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6780,11 +6780,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeCutDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6792,11 +6792,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeFindDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6804,11 +6804,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModePasteDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6816,11 +6816,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModePopupWindowStyle
+     * @attr name com.hearatale.sightwords.dev:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6828,11 +6828,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeSelectAllDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6840,11 +6840,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeShareDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6852,11 +6852,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeSplitBackground
+     * @attr name com.hearatale.sightwords.dev:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6864,11 +6864,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeStyle
+     * @attr name com.hearatale.sightwords.dev:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6876,11 +6876,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionModeWebSearchDrawable
+     * @attr name com.hearatale.sightwords.dev:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6888,11 +6888,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionOverflowButtonStyle
+     * @attr name com.hearatale.sightwords.dev:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6900,11 +6900,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionOverflowMenuStyle
+     * @attr name com.hearatale.sightwords.dev:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6912,11 +6912,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:activityChooserViewStyle
+     * @attr name com.hearatale.sightwords.dev:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6924,21 +6924,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:alertDialogButtonGroupStyle
+     * @attr name com.hearatale.sightwords.dev:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:alertDialogCenterButtons
+     * @attr name com.hearatale.sightwords.dev:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6946,11 +6946,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:alertDialogStyle
+     * @attr name com.hearatale.sightwords.dev:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6958,11 +6958,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:alertDialogTheme
+     * @attr name com.hearatale.sightwords.dev:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6970,11 +6970,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:autoCompleteTextViewStyle
+     * @attr name com.hearatale.sightwords.dev:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6982,11 +6982,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:borderlessButtonStyle
+     * @attr name com.hearatale.sightwords.dev:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6994,11 +6994,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonBarButtonStyle
+     * @attr name com.hearatale.sightwords.dev:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7006,11 +7006,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonBarNegativeButtonStyle
+     * @attr name com.hearatale.sightwords.dev:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7018,11 +7018,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonBarNeutralButtonStyle
+     * @attr name com.hearatale.sightwords.dev:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7030,11 +7030,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonBarPositiveButtonStyle
+     * @attr name com.hearatale.sightwords.dev:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7042,11 +7042,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonBarStyle
+     * @attr name com.hearatale.sightwords.dev:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7054,11 +7054,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonStyle
+     * @attr name com.hearatale.sightwords.dev:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7066,11 +7066,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonStyleSmall
+     * @attr name com.hearatale.sightwords.dev:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7078,11 +7078,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:checkboxStyle
+     * @attr name com.hearatale.sightwords.dev:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7090,77 +7090,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:checkedTextViewStyle
+     * @attr name com.hearatale.sightwords.dev:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorAccent
+     * @attr name com.hearatale.sightwords.dev:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorBackgroundFloating
+     * @attr name com.hearatale.sightwords.dev:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorButtonNormal
+     * @attr name com.hearatale.sightwords.dev:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorControlActivated
+     * @attr name com.hearatale.sightwords.dev:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorControlHighlight
+     * @attr name com.hearatale.sightwords.dev:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorControlNormal
+     * @attr name com.hearatale.sightwords.dev:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7171,44 +7171,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorError
+     * @attr name com.hearatale.sightwords.dev:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorPrimary
+     * @attr name com.hearatale.sightwords.dev:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorPrimaryDark
+     * @attr name com.hearatale.sightwords.dev:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:colorSwitchThumbNormal
+     * @attr name com.hearatale.sightwords.dev:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7216,11 +7216,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:controlBackground
+     * @attr name com.hearatale.sightwords.dev:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7229,11 +7229,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:dialogPreferredPadding
+     * @attr name com.hearatale.sightwords.dev:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7241,11 +7241,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:dialogTheme
+     * @attr name com.hearatale.sightwords.dev:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7253,11 +7253,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:dividerHorizontal
+     * @attr name com.hearatale.sightwords.dev:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7265,11 +7265,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:dividerVertical
+     * @attr name com.hearatale.sightwords.dev:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7277,11 +7277,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:dropDownListViewStyle
+     * @attr name com.hearatale.sightwords.dev:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7290,11 +7290,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:dropdownListPreferredItemHeight
+     * @attr name com.hearatale.sightwords.dev:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7302,11 +7302,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:editTextBackground
+     * @attr name com.hearatale.sightwords.dev:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7317,11 +7317,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:editTextColor
+     * @attr name com.hearatale.sightwords.dev:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7329,11 +7329,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:editTextStyle
+     * @attr name com.hearatale.sightwords.dev:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7341,11 +7341,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:homeAsUpIndicator
+     * @attr name com.hearatale.sightwords.dev:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7353,11 +7353,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:imageButtonStyle
+     * @attr name com.hearatale.sightwords.dev:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7365,11 +7365,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:listChoiceBackgroundIndicator
+     * @attr name com.hearatale.sightwords.dev:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7377,11 +7377,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:listDividerAlertDialog
+     * @attr name com.hearatale.sightwords.dev:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7389,11 +7389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:listMenuViewStyle
+     * @attr name com.hearatale.sightwords.dev:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7401,11 +7401,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:listPopupWindowStyle
+     * @attr name com.hearatale.sightwords.dev:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7414,11 +7414,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:listPreferredItemHeight
+     * @attr name com.hearatale.sightwords.dev:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7427,11 +7427,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:listPreferredItemHeightLarge
+     * @attr name com.hearatale.sightwords.dev:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7440,11 +7440,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:listPreferredItemHeightSmall
+     * @attr name com.hearatale.sightwords.dev:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7453,11 +7453,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:listPreferredItemPaddingLeft
+     * @attr name com.hearatale.sightwords.dev:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7466,11 +7466,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:listPreferredItemPaddingRight
+     * @attr name com.hearatale.sightwords.dev:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7478,11 +7478,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:panelBackground
+     * @attr name com.hearatale.sightwords.dev:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7490,11 +7490,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:panelMenuListTheme
+     * @attr name com.hearatale.sightwords.dev:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7503,11 +7503,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:panelMenuListWidth
+     * @attr name com.hearatale.sightwords.dev:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7515,11 +7515,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:popupMenuStyle
+     * @attr name com.hearatale.sightwords.dev:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7527,11 +7527,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:popupWindowStyle
+     * @attr name com.hearatale.sightwords.dev:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7539,11 +7539,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:radioButtonStyle
+     * @attr name com.hearatale.sightwords.dev:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7551,11 +7551,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:ratingBarStyle
+     * @attr name com.hearatale.sightwords.dev:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7563,11 +7563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:ratingBarStyleIndicator
+     * @attr name com.hearatale.sightwords.dev:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7575,11 +7575,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:ratingBarStyleSmall
+     * @attr name com.hearatale.sightwords.dev:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7587,11 +7587,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:searchViewStyle
+     * @attr name com.hearatale.sightwords.dev:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7599,11 +7599,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:seekBarStyle
+     * @attr name com.hearatale.sightwords.dev:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7611,11 +7611,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:selectableItemBackground
+     * @attr name com.hearatale.sightwords.dev:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7623,11 +7623,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:selectableItemBackgroundBorderless
+     * @attr name com.hearatale.sightwords.dev:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7635,11 +7635,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:spinnerDropDownItemStyle
+     * @attr name com.hearatale.sightwords.dev:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7647,11 +7647,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:spinnerStyle
+     * @attr name com.hearatale.sightwords.dev:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7659,11 +7659,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:switchStyle
+     * @attr name com.hearatale.sightwords.dev:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7671,11 +7671,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceLargePopupMenu
+     * @attr name com.hearatale.sightwords.dev:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7683,11 +7683,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceListItem
+     * @attr name com.hearatale.sightwords.dev:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7695,11 +7695,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceListItemSecondary
+     * @attr name com.hearatale.sightwords.dev:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7707,11 +7707,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceListItemSmall
+     * @attr name com.hearatale.sightwords.dev:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7719,11 +7719,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearancePopupMenuHeader
+     * @attr name com.hearatale.sightwords.dev:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7731,11 +7731,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceSearchResultSubtitle
+     * @attr name com.hearatale.sightwords.dev:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7743,11 +7743,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceSearchResultTitle
+     * @attr name com.hearatale.sightwords.dev:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7755,11 +7755,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAppearanceSmallPopupMenu
+     * @attr name com.hearatale.sightwords.dev:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7770,11 +7770,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textColorAlertDialogListItem
+     * @attr name com.hearatale.sightwords.dev:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7785,11 +7785,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textColorSearchUrl
+     * @attr name com.hearatale.sightwords.dev:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7797,11 +7797,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:toolbarNavigationButtonStyle
+     * @attr name com.hearatale.sightwords.dev:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7809,11 +7809,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:toolbarStyle
+     * @attr name com.hearatale.sightwords.dev:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7824,11 +7824,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tooltipForegroundColor
+     * @attr name com.hearatale.sightwords.dev:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7836,51 +7836,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tooltipFrameBackground
+     * @attr name com.hearatale.sightwords.dev:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:viewInflaterClass
+     * @attr name com.hearatale.sightwords.dev:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:windowActionBar
+     * @attr name com.hearatale.sightwords.dev:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:windowActionBarOverlay
+     * @attr name com.hearatale.sightwords.dev:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:windowActionModeOverlay
+     * @attr name com.hearatale.sightwords.dev:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7893,11 +7893,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hearatale.phonics.dev:windowFixedHeightMajor
+     * @attr name com.hearatale.sightwords.dev:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7910,11 +7910,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hearatale.phonics.dev:windowFixedHeightMinor
+     * @attr name com.hearatale.sightwords.dev:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7927,11 +7927,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hearatale.phonics.dev:windowFixedWidthMajor
+     * @attr name com.hearatale.sightwords.dev:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7944,11 +7944,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hearatale.phonics.dev:windowFixedWidthMinor
+     * @attr name com.hearatale.sightwords.dev:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7961,11 +7961,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hearatale.phonics.dev:windowMinWidthMajor
+     * @attr name com.hearatale.sightwords.dev:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7978,17 +7978,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hearatale.phonics.dev:windowMinWidthMinor
+     * @attr name com.hearatale.sightwords.dev:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:windowNoTitle
+     * @attr name com.hearatale.sightwords.dev:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -7998,9 +7998,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ArcMotion_maximumAngle com.hearatale.phonics.dev:maximumAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ArcMotion_minimumHorizontalAngle com.hearatale.phonics.dev:minimumHorizontalAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ArcMotion_minimumVerticalAngle com.hearatale.phonics.dev:minimumVerticalAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ArcMotion_maximumAngle com.hearatale.sightwords.dev:maximumAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ArcMotion_minimumHorizontalAngle com.hearatale.sightwords.dev:minimumHorizontalAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ArcMotion_minimumVerticalAngle com.hearatale.sightwords.dev:minimumVerticalAngle}</code></td><td></td></tr>
      * </table>
      * @see #ArcMotion_maximumAngle
      * @see #ArcMotion_minimumHorizontalAngle
@@ -8010,30 +8010,30 @@ public final class R {
       0x7f030120, 0x7f030123, 0x7f030124
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#maximumAngle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#maximumAngle}
      * attribute's value can be found in the {@link #ArcMotion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:maximumAngle
+     * @attr name com.hearatale.sightwords.dev:maximumAngle
      */
     public static final int ArcMotion_maximumAngle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#minimumHorizontalAngle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#minimumHorizontalAngle}
      * attribute's value can be found in the {@link #ArcMotion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:minimumHorizontalAngle
+     * @attr name com.hearatale.sightwords.dev:minimumHorizontalAngle
      */
     public static final int ArcMotion_minimumHorizontalAngle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#minimumVerticalAngle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#minimumVerticalAngle}
      * attribute's value can be found in the {@link #ArcMotion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:minimumVerticalAngle
+     * @attr name com.hearatale.sightwords.dev:minimumVerticalAngle
      */
     public static final int ArcMotion_minimumVerticalAngle=2;
     /**
@@ -8043,11 +8043,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.hearatale.phonics.dev:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.hearatale.phonics.dev:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.hearatale.phonics.dev:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.hearatale.phonics.dev:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.hearatale.phonics.dev:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.hearatale.sightwords.dev:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.hearatale.sightwords.dev:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.hearatale.sightwords.dev:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.hearatale.sightwords.dev:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.hearatale.sightwords.dev:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -8060,7 +8060,7 @@ public final class R {
       0x7f030122
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8069,11 +8069,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:elevation
+     * @attr name com.hearatale.sightwords.dev:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8081,33 +8081,33 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemBackground
+     * @attr name com.hearatale.sightwords.dev:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemIconTint
+     * @attr name com.hearatale.sightwords.dev:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemTextColor
+     * @attr name com.hearatale.sightwords.dev:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8115,7 +8115,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:menu
+     * @attr name com.hearatale.sightwords.dev:menu
      */
     public static final int BottomNavigationView_menu=4;
     /**
@@ -8125,9 +8125,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.hearatale.phonics.dev:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.hearatale.phonics.dev:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.hearatale.phonics.dev:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.hearatale.sightwords.dev:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.hearatale.sightwords.dev:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.hearatale.sightwords.dev:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_hideable
      * @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -8137,17 +8137,17 @@ public final class R {
       0x7f03003a, 0x7f03003c, 0x7f03003d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:behavior_hideable
+     * @attr name com.hearatale.sightwords.dev:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8164,17 +8164,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:behavior_peekHeight
+     * @attr name com.hearatale.sightwords.dev:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:behavior_skipCollapsed
+     * @attr name com.hearatale.sightwords.dev:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=2;
     /**
@@ -8184,7 +8184,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.hearatale.phonics.dev:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.hearatale.sightwords.dev:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -8192,13 +8192,13 @@ public final class R {
       0x7f030026
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:allowStacking
+     * @attr name com.hearatale.sightwords.dev:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -8210,17 +8210,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.hearatale.phonics.dev:cardBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.hearatale.phonics.dev:cardCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.hearatale.phonics.dev:cardElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.hearatale.phonics.dev:cardMaxElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.hearatale.phonics.dev:cardPreventCornerOverlap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.hearatale.phonics.dev:cardUseCompatPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.hearatale.phonics.dev:contentPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.hearatale.phonics.dev:contentPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.hearatale.phonics.dev:contentPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.hearatale.phonics.dev:contentPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.hearatale.phonics.dev:contentPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.hearatale.sightwords.dev:cardBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.hearatale.sightwords.dev:cardCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.hearatale.sightwords.dev:cardElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.hearatale.sightwords.dev:cardMaxElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.hearatale.sightwords.dev:cardPreventCornerOverlap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.hearatale.sightwords.dev:cardUseCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.hearatale.sightwords.dev:contentPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.hearatale.sightwords.dev:contentPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.hearatale.sightwords.dev:contentPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.hearatale.sightwords.dev:contentPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.hearatale.sightwords.dev:contentPaddingTop}</code></td><td></td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -8269,18 +8269,18 @@ public final class R {
      */
     public static final int CardView_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#cardBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#cardBackgroundColor}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:cardBackgroundColor
+     * @attr name com.hearatale.sightwords.dev:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#cardCornerRadius}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#cardCornerRadius}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8289,11 +8289,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:cardCornerRadius
+     * @attr name com.hearatale.sightwords.dev:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#cardElevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#cardElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8302,11 +8302,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:cardElevation
+     * @attr name com.hearatale.sightwords.dev:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#cardMaxElevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#cardMaxElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8315,31 +8315,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:cardMaxElevation
+     * @attr name com.hearatale.sightwords.dev:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#cardPreventCornerOverlap}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#cardPreventCornerOverlap}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:cardPreventCornerOverlap
+     * @attr name com.hearatale.sightwords.dev:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#cardUseCompatPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#cardUseCompatPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:cardUseCompatPadding
+     * @attr name com.hearatale.sightwords.dev:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8348,11 +8348,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentPadding
+     * @attr name com.hearatale.sightwords.dev:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentPaddingBottom}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8361,11 +8361,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentPaddingBottom
+     * @attr name com.hearatale.sightwords.dev:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentPaddingLeft}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8374,11 +8374,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentPaddingLeft
+     * @attr name com.hearatale.sightwords.dev:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentPaddingRight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentPaddingRight}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8387,11 +8387,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentPaddingRight
+     * @attr name com.hearatale.sightwords.dev:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentPaddingTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentPaddingTop}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8400,7 +8400,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentPaddingTop
+     * @attr name com.hearatale.sightwords.dev:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -8410,7 +8410,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChangeBounds_resizeClip com.hearatale.phonics.dev:resizeClip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChangeBounds_resizeClip com.hearatale.sightwords.dev:resizeClip}</code></td><td></td></tr>
      * </table>
      * @see #ChangeBounds_resizeClip
      */
@@ -8418,13 +8418,13 @@ public final class R {
       0x7f030147
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#resizeClip}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#resizeClip}
      * attribute's value can be found in the {@link #ChangeBounds} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:resizeClip
+     * @attr name com.hearatale.sightwords.dev:resizeClip
      */
     public static final int ChangeBounds_resizeClip=0;
     /**
@@ -8434,8 +8434,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChangeTransform_reparent com.hearatale.phonics.dev:reparent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChangeTransform_reparentWithOverlay com.hearatale.phonics.dev:reparentWithOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChangeTransform_reparent com.hearatale.sightwords.dev:reparent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChangeTransform_reparentWithOverlay com.hearatale.sightwords.dev:reparentWithOverlay}</code></td><td></td></tr>
      * </table>
      * @see #ChangeTransform_reparent
      * @see #ChangeTransform_reparentWithOverlay
@@ -8444,23 +8444,23 @@ public final class R {
       0x7f030145, 0x7f030146
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#reparent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#reparent}
      * attribute's value can be found in the {@link #ChangeTransform} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:reparent
+     * @attr name com.hearatale.sightwords.dev:reparent
      */
     public static final int ChangeTransform_reparent=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#reparentWithOverlay}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#reparentWithOverlay}
      * attribute's value can be found in the {@link #ChangeTransform} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:reparentWithOverlay
+     * @attr name com.hearatale.sightwords.dev:reparentWithOverlay
      */
     public static final int ChangeTransform_reparentWithOverlay=1;
     /**
@@ -8470,22 +8470,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.hearatale.phonics.dev:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.hearatale.phonics.dev:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.hearatale.phonics.dev:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.hearatale.phonics.dev:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.hearatale.phonics.dev:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.hearatale.phonics.dev:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.hearatale.phonics.dev:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.hearatale.phonics.dev:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.hearatale.phonics.dev:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.hearatale.phonics.dev:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.hearatale.phonics.dev:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.hearatale.phonics.dev:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.hearatale.phonics.dev:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.hearatale.phonics.dev:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.hearatale.phonics.dev:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.hearatale.phonics.dev:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.hearatale.sightwords.dev:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.hearatale.sightwords.dev:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.hearatale.sightwords.dev:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.hearatale.sightwords.dev:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.hearatale.sightwords.dev:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.hearatale.sightwords.dev:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.hearatale.sightwords.dev:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.hearatale.sightwords.dev:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.hearatale.sightwords.dev:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.hearatale.sightwords.dev:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.hearatale.sightwords.dev:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.hearatale.sightwords.dev:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.hearatale.sightwords.dev:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.hearatale.sightwords.dev:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.hearatale.sightwords.dev:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.hearatale.sightwords.dev:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -8511,7 +8511,7 @@ public final class R {
       0x7f030164, 0x7f030199, 0x7f03019a, 0x7f0301a5
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8532,11 +8532,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:collapsedTitleGravity
+     * @attr name com.hearatale.sightwords.dev:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8544,22 +8544,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:collapsedTitleTextAppearance
+     * @attr name com.hearatale.sightwords.dev:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:contentScrim
+     * @attr name com.hearatale.sightwords.dev:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8580,11 +8580,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleGravity
+     * @attr name com.hearatale.sightwords.dev:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8593,11 +8593,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleMargin
+     * @attr name com.hearatale.sightwords.dev:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8606,11 +8606,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleMarginBottom
+     * @attr name com.hearatale.sightwords.dev:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8619,11 +8619,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleMarginEnd
+     * @attr name com.hearatale.sightwords.dev:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8632,11 +8632,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleMarginStart
+     * @attr name com.hearatale.sightwords.dev:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8645,11 +8645,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleMarginTop
+     * @attr name com.hearatale.sightwords.dev:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8657,20 +8657,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:expandedTitleTextAppearance
+     * @attr name com.hearatale.sightwords.dev:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:scrimAnimationDuration
+     * @attr name com.hearatale.sightwords.dev:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8679,42 +8679,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:scrimVisibleHeightTrigger
+     * @attr name com.hearatale.sightwords.dev:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:statusBarScrim
+     * @attr name com.hearatale.sightwords.dev:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:title
+     * @attr name com.hearatale.sightwords.dev:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:titleEnabled
+     * @attr name com.hearatale.sightwords.dev:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8722,7 +8722,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:toolbarId
+     * @attr name com.hearatale.sightwords.dev:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -8732,8 +8732,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.hearatale.phonics.dev:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.hearatale.phonics.dev:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.hearatale.sightwords.dev:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.hearatale.sightwords.dev:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -8742,7 +8742,7 @@ public final class R {
       0x7f0300d7, 0x7f0300d8
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8756,16 +8756,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_collapseMode
+     * @attr name com.hearatale.sightwords.dev:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_collapseParallaxMultiplier
+     * @attr name com.hearatale.sightwords.dev:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -8777,7 +8777,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.hearatale.phonics.dev:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.hearatale.sightwords.dev:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -8807,12 +8807,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:alpha
+     * @attr name com.hearatale.sightwords.dev:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -8823,8 +8823,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.hearatale.phonics.dev:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.hearatale.phonics.dev:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.hearatale.sightwords.dev:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.hearatale.sightwords.dev:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -8846,18 +8846,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:buttonTint
+     * @attr name com.hearatale.sightwords.dev:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8874,7 +8874,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:buttonTintMode
+     * @attr name com.hearatale.sightwords.dev:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8889,61 +8889,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.hearatale.phonics.dev:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.hearatale.phonics.dev:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.hearatale.phonics.dev:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.hearatale.phonics.dev:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.hearatale.phonics.dev:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.hearatale.phonics.dev:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.hearatale.phonics.dev:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.hearatale.phonics.dev:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.hearatale.phonics.dev:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.hearatale.phonics.dev:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.hearatale.phonics.dev:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.hearatale.phonics.dev:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.hearatale.phonics.dev:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.hearatale.phonics.dev:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.hearatale.phonics.dev:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.hearatale.phonics.dev:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.hearatale.phonics.dev:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.hearatale.phonics.dev:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.hearatale.phonics.dev:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.hearatale.phonics.dev:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.hearatale.phonics.dev:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.hearatale.phonics.dev:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.hearatale.phonics.dev:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.hearatale.phonics.dev:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.hearatale.phonics.dev:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.hearatale.phonics.dev:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.hearatale.phonics.dev:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.hearatale.phonics.dev:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.hearatale.phonics.dev:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.hearatale.phonics.dev:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.hearatale.phonics.dev:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.hearatale.phonics.dev:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.hearatale.phonics.dev:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.hearatale.phonics.dev:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.hearatale.phonics.dev:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.hearatale.phonics.dev:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.hearatale.phonics.dev:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.hearatale.phonics.dev:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.hearatale.phonics.dev:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.hearatale.phonics.dev:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.hearatale.phonics.dev:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.hearatale.phonics.dev:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.hearatale.phonics.dev:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.hearatale.phonics.dev:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.hearatale.phonics.dev:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.hearatale.phonics.dev:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.hearatale.phonics.dev:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.hearatale.phonics.dev:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.hearatale.phonics.dev:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.hearatale.phonics.dev:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.hearatale.phonics.dev:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.hearatale.phonics.dev:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.hearatale.phonics.dev:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.hearatale.phonics.dev:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.hearatale.phonics.dev:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.hearatale.sightwords.dev:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.hearatale.sightwords.dev:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.hearatale.sightwords.dev:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.hearatale.sightwords.dev:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.hearatale.sightwords.dev:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.hearatale.sightwords.dev:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.hearatale.sightwords.dev:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.hearatale.sightwords.dev:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.hearatale.sightwords.dev:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.hearatale.sightwords.dev:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.hearatale.sightwords.dev:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.hearatale.sightwords.dev:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.hearatale.sightwords.dev:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.hearatale.sightwords.dev:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.hearatale.sightwords.dev:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.hearatale.sightwords.dev:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.hearatale.sightwords.dev:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.hearatale.sightwords.dev:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.hearatale.sightwords.dev:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.hearatale.sightwords.dev:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.hearatale.sightwords.dev:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.hearatale.sightwords.dev:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.hearatale.sightwords.dev:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.hearatale.sightwords.dev:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.hearatale.sightwords.dev:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.hearatale.sightwords.dev:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.hearatale.sightwords.dev:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.hearatale.sightwords.dev:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.hearatale.sightwords.dev:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.hearatale.sightwords.dev:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.hearatale.sightwords.dev:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.hearatale.sightwords.dev:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.hearatale.sightwords.dev:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.hearatale.sightwords.dev:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.hearatale.sightwords.dev:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.hearatale.sightwords.dev:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.hearatale.sightwords.dev:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.hearatale.sightwords.dev:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.hearatale.sightwords.dev:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.hearatale.sightwords.dev:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.hearatale.sightwords.dev:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.hearatale.sightwords.dev:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.hearatale.sightwords.dev:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.hearatale.sightwords.dev:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.hearatale.sightwords.dev:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.hearatale.sightwords.dev:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.hearatale.sightwords.dev:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.hearatale.sightwords.dev:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.hearatale.sightwords.dev:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.hearatale.sightwords.dev:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.hearatale.sightwords.dev:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.hearatale.sightwords.dev:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.hearatale.sightwords.dev:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.hearatale.sightwords.dev:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.hearatale.sightwords.dev:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -9093,17 +9093,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:barrierAllowsGoneWidgets
+     * @attr name com.hearatale.sightwords.dev:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9120,21 +9120,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:barrierDirection
+     * @attr name com.hearatale.sightwords.dev:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:chainUseRtl
+     * @attr name com.hearatale.sightwords.dev:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9142,50 +9142,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:constraintSet
+     * @attr name com.hearatale.sightwords.dev:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:constraint_referenced_ids
+     * @attr name com.hearatale.sightwords.dev:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constrainedHeight
+     * @attr name com.hearatale.sightwords.dev:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constrainedWidth
+     * @attr name com.hearatale.sightwords.dev:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBaseline_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9201,20 +9201,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBaseline_toBaselineOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBottom_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9230,11 +9230,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBottom_toBottomOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9250,11 +9250,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBottom_toTopOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9262,20 +9262,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintCircle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintCircleAngle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9284,21 +9284,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintCircleRadius
+     * @attr name com.hearatale.sightwords.dev:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintDimensionRatio
+     * @attr name com.hearatale.sightwords.dev:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9314,11 +9314,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintEnd_toEndOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9334,11 +9334,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintEnd_toStartOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9347,11 +9347,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintGuide_begin
+     * @attr name com.hearatale.sightwords.dev:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9360,20 +9360,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintGuide_end
+     * @attr name com.hearatale.sightwords.dev:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintGuide_percent
+     * @attr name com.hearatale.sightwords.dev:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9387,11 +9387,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_default
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9408,11 +9408,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_max
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9429,29 +9429,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_min
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_percent
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHorizontal_bias
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9465,29 +9465,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHorizontal_chainStyle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHorizontal_weight
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintLeft_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9503,11 +9503,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintLeft_toLeftOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9523,20 +9523,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintLeft_toRightOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintRight_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9552,11 +9552,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintRight_toLeftOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9572,11 +9572,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintRight_toRightOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9592,11 +9592,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintStart_toEndOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9612,20 +9612,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintStart_toStartOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintTop_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9641,11 +9641,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintTop_toBottomOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9661,20 +9661,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintTop_toTopOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintVertical_bias
+     * @attr name com.hearatale.sightwords.dev:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9688,20 +9688,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintVertical_chainStyle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintVertical_weight
+     * @attr name com.hearatale.sightwords.dev:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9715,11 +9715,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_default
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9736,11 +9736,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_max
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9757,20 +9757,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_min
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_percent
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9779,11 +9779,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_editor_absoluteX
+     * @attr name com.hearatale.sightwords.dev:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9792,11 +9792,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_editor_absoluteY
+     * @attr name com.hearatale.sightwords.dev:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9805,11 +9805,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginBottom
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9818,11 +9818,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginEnd
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9831,11 +9831,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginLeft
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9844,11 +9844,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginRight
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9857,11 +9857,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginStart
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9870,11 +9870,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginTop
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9886,13 +9886,13 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td></td></tr>
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_optimizationLevel
+     * @attr name com.hearatale.sightwords.dev:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -9902,8 +9902,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.hearatale.phonics.dev:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.hearatale.phonics.dev:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.hearatale.sightwords.dev:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.hearatale.sightwords.dev:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -9912,7 +9912,7 @@ public final class R {
       0x7f03006c, 0x7f030093
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9920,11 +9920,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:content
+     * @attr name com.hearatale.sightwords.dev:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9937,7 +9937,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:emptyVisibility
+     * @attr name com.hearatale.sightwords.dev:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -9974,59 +9974,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.hearatale.phonics.dev:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.hearatale.phonics.dev:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.hearatale.phonics.dev:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.hearatale.phonics.dev:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.hearatale.phonics.dev:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.hearatale.phonics.dev:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.hearatale.phonics.dev:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.hearatale.phonics.dev:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.hearatale.phonics.dev:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.hearatale.phonics.dev:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.hearatale.phonics.dev:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.hearatale.phonics.dev:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.hearatale.phonics.dev:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.hearatale.phonics.dev:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.hearatale.phonics.dev:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.hearatale.phonics.dev:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.hearatale.phonics.dev:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.hearatale.phonics.dev:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.hearatale.phonics.dev:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.hearatale.phonics.dev:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.hearatale.phonics.dev:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.hearatale.phonics.dev:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.hearatale.phonics.dev:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.hearatale.phonics.dev:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.hearatale.phonics.dev:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.hearatale.phonics.dev:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.hearatale.phonics.dev:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.hearatale.phonics.dev:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.hearatale.phonics.dev:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.hearatale.phonics.dev:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.hearatale.phonics.dev:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.hearatale.phonics.dev:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.hearatale.phonics.dev:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.hearatale.phonics.dev:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.hearatale.phonics.dev:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.hearatale.phonics.dev:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.hearatale.phonics.dev:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.hearatale.phonics.dev:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.hearatale.phonics.dev:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.hearatale.phonics.dev:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.hearatale.phonics.dev:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.hearatale.phonics.dev:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.hearatale.phonics.dev:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.hearatale.phonics.dev:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.hearatale.phonics.dev:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.hearatale.phonics.dev:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.hearatale.phonics.dev:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.hearatale.phonics.dev:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.hearatale.phonics.dev:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.hearatale.phonics.dev:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.hearatale.phonics.dev:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.hearatale.phonics.dev:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.hearatale.phonics.dev:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.hearatale.sightwords.dev:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.hearatale.sightwords.dev:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.hearatale.sightwords.dev:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.hearatale.sightwords.dev:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.hearatale.sightwords.dev:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.hearatale.sightwords.dev:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.hearatale.sightwords.dev:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.hearatale.sightwords.dev:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.hearatale.sightwords.dev:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.hearatale.sightwords.dev:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.hearatale.sightwords.dev:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.hearatale.sightwords.dev:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.hearatale.sightwords.dev:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.hearatale.sightwords.dev:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.hearatale.sightwords.dev:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.hearatale.sightwords.dev:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.hearatale.sightwords.dev:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.hearatale.sightwords.dev:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.hearatale.sightwords.dev:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.hearatale.sightwords.dev:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.hearatale.sightwords.dev:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.hearatale.sightwords.dev:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.hearatale.sightwords.dev:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.hearatale.sightwords.dev:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.hearatale.sightwords.dev:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.hearatale.sightwords.dev:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.hearatale.sightwords.dev:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.hearatale.sightwords.dev:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.hearatale.sightwords.dev:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.hearatale.sightwords.dev:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.hearatale.sightwords.dev:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.hearatale.sightwords.dev:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.hearatale.sightwords.dev:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.hearatale.sightwords.dev:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.hearatale.sightwords.dev:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.hearatale.sightwords.dev:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.hearatale.sightwords.dev:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.hearatale.sightwords.dev:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.hearatale.sightwords.dev:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.hearatale.sightwords.dev:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.hearatale.sightwords.dev:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.hearatale.sightwords.dev:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.hearatale.sightwords.dev:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.hearatale.sightwords.dev:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.hearatale.sightwords.dev:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.hearatale.sightwords.dev:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.hearatale.sightwords.dev:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.hearatale.sightwords.dev:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.hearatale.sightwords.dev:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.hearatale.sightwords.dev:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.hearatale.sightwords.dev:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.hearatale.sightwords.dev:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.hearatale.sightwords.dev:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -10487,17 +10487,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:barrierAllowsGoneWidgets
+     * @attr name com.hearatale.sightwords.dev:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10514,60 +10514,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:barrierDirection
+     * @attr name com.hearatale.sightwords.dev:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:chainUseRtl
+     * @attr name com.hearatale.sightwords.dev:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:constraint_referenced_ids
+     * @attr name com.hearatale.sightwords.dev:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constrainedHeight
+     * @attr name com.hearatale.sightwords.dev:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constrainedWidth
+     * @attr name com.hearatale.sightwords.dev:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBaseline_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10583,20 +10583,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBaseline_toBaselineOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBottom_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10612,11 +10612,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBottom_toBottomOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10632,11 +10632,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintBottom_toTopOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10644,20 +10644,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintCircle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintCircleAngle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10666,21 +10666,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintCircleRadius
+     * @attr name com.hearatale.sightwords.dev:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintDimensionRatio
+     * @attr name com.hearatale.sightwords.dev:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10696,11 +10696,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintEnd_toEndOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10716,11 +10716,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintEnd_toStartOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10729,11 +10729,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintGuide_begin
+     * @attr name com.hearatale.sightwords.dev:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10742,20 +10742,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintGuide_end
+     * @attr name com.hearatale.sightwords.dev:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintGuide_percent
+     * @attr name com.hearatale.sightwords.dev:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10769,11 +10769,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_default
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10790,11 +10790,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_max
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10811,29 +10811,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_min
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHeight_percent
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHorizontal_bias
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10847,29 +10847,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHorizontal_chainStyle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintHorizontal_weight
+     * @attr name com.hearatale.sightwords.dev:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintLeft_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10885,11 +10885,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintLeft_toLeftOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10905,20 +10905,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintLeft_toRightOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintRight_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10934,11 +10934,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintRight_toLeftOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10954,11 +10954,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintRight_toRightOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10974,11 +10974,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintStart_toEndOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10994,20 +10994,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintStart_toStartOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintTop_creator
+     * @attr name com.hearatale.sightwords.dev:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11023,11 +11023,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintTop_toBottomOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11043,20 +11043,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintTop_toTopOf
+     * @attr name com.hearatale.sightwords.dev:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintVertical_bias
+     * @attr name com.hearatale.sightwords.dev:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11070,20 +11070,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintVertical_chainStyle
+     * @attr name com.hearatale.sightwords.dev:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintVertical_weight
+     * @attr name com.hearatale.sightwords.dev:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11097,11 +11097,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_default
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11118,11 +11118,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_max
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11139,20 +11139,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_min
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_constraintWidth_percent
+     * @attr name com.hearatale.sightwords.dev:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11161,11 +11161,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_editor_absoluteX
+     * @attr name com.hearatale.sightwords.dev:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11174,11 +11174,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_editor_absoluteY
+     * @attr name com.hearatale.sightwords.dev:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11187,11 +11187,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginBottom
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11200,11 +11200,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginEnd
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11213,11 +11213,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginLeft
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11226,11 +11226,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginRight
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11239,11 +11239,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginStart
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11252,7 +11252,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:layout_goneMarginTop
+     * @attr name com.hearatale.sightwords.dev:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -11262,8 +11262,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.hearatale.phonics.dev:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.hearatale.phonics.dev:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.hearatale.sightwords.dev:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.hearatale.sightwords.dev:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -11272,7 +11272,7 @@ public final class R {
       0x7f0300d1, 0x7f030163
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11280,11 +11280,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:keylines
+     * @attr name com.hearatale.sightwords.dev:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11295,7 +11295,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:statusBarBackground
+     * @attr name com.hearatale.sightwords.dev:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -11306,12 +11306,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.hearatale.phonics.dev:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.hearatale.phonics.dev:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.hearatale.phonics.dev:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.hearatale.phonics.dev:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.hearatale.phonics.dev:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.hearatale.phonics.dev:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.hearatale.sightwords.dev:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.hearatale.sightwords.dev:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.hearatale.sightwords.dev:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.hearatale.sightwords.dev:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.hearatale.sightwords.dev:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.hearatale.sightwords.dev:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -11355,7 +11355,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11363,11 +11363,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_anchor
+     * @attr name com.hearatale.sightwords.dev:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11392,21 +11392,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_anchorGravity
+     * @attr name com.hearatale.sightwords.dev:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:layout_behavior
+     * @attr name com.hearatale.sightwords.dev:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11425,11 +11425,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_dodgeInsetEdges
+     * @attr name com.hearatale.sightwords.dev:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11447,16 +11447,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:layout_insetEdge
+     * @attr name com.hearatale.sightwords.dev:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout_keyline
+     * @attr name com.hearatale.sightwords.dev:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -11466,9 +11466,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.hearatale.phonics.dev:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.hearatale.phonics.dev:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_textColorError com.hearatale.phonics.dev:textColorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.hearatale.sightwords.dev:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.hearatale.sightwords.dev:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_textColorError com.hearatale.sightwords.dev:textColorError}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -11478,7 +11478,7 @@ public final class R {
       0x7f030040, 0x7f030041, 0x7f03018d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11486,11 +11486,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:bottomSheetDialogTheme
+     * @attr name com.hearatale.sightwords.dev:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11498,11 +11498,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:bottomSheetStyle
+     * @attr name com.hearatale.sightwords.dev:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11513,7 +11513,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:textColorError
+     * @attr name com.hearatale.sightwords.dev:textColorError
      */
     public static final int DesignTheme_textColorError=2;
     /**
@@ -11523,14 +11523,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.hearatale.phonics.dev:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.hearatale.phonics.dev:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.hearatale.phonics.dev:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.hearatale.phonics.dev:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.hearatale.phonics.dev:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.hearatale.phonics.dev:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.hearatale.phonics.dev:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.hearatale.phonics.dev:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.hearatale.sightwords.dev:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.hearatale.sightwords.dev:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.hearatale.sightwords.dev:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.hearatale.sightwords.dev:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.hearatale.sightwords.dev:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.hearatale.sightwords.dev:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.hearatale.sightwords.dev:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.hearatale.sightwords.dev:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -11546,7 +11546,7 @@ public final class R {
       0x7f03008a, 0x7f0300b7, 0x7f030159, 0x7f030190
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11555,11 +11555,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:arrowHeadLength
+     * @attr name com.hearatale.sightwords.dev:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11568,11 +11568,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:arrowShaftLength
+     * @attr name com.hearatale.sightwords.dev:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11581,22 +11581,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:barLength
+     * @attr name com.hearatale.sightwords.dev:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:color
+     * @attr name com.hearatale.sightwords.dev:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11605,11 +11605,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:drawableSize
+     * @attr name com.hearatale.sightwords.dev:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11618,21 +11618,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:gapBetweenBars
+     * @attr name com.hearatale.sightwords.dev:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:spinBars
+     * @attr name com.hearatale.sightwords.dev:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11641,7 +11641,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:thickness
+     * @attr name com.hearatale.sightwords.dev:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -11651,7 +11651,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Fade_fadingMode com.hearatale.phonics.dev:fadingMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Fade_fadingMode com.hearatale.sightwords.dev:fadingMode}</code></td><td></td></tr>
      * </table>
      * @see #Fade_fadingMode
      */
@@ -11659,7 +11659,7 @@ public final class R {
       0x7f0300a4
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fadingMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fadingMode}
      * attribute's value can be found in the {@link #Fade} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11673,7 +11673,7 @@ public final class R {
      * <tr><td>fade_out</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:fadingMode
+     * @attr name com.hearatale.sightwords.dev:fadingMode
      */
     public static final int Fade_fadingMode=0;
     /**
@@ -11683,15 +11683,15 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.hearatale.phonics.dev:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.hearatale.phonics.dev:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.hearatale.phonics.dev:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.hearatale.phonics.dev:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.hearatale.phonics.dev:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.hearatale.phonics.dev:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.hearatale.phonics.dev:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.hearatale.phonics.dev:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.hearatale.phonics.dev:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.hearatale.sightwords.dev:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.hearatale.sightwords.dev:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.hearatale.sightwords.dev:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.hearatale.sightwords.dev:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.hearatale.sightwords.dev:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.hearatale.sightwords.dev:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.hearatale.sightwords.dev:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.hearatale.sightwords.dev:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.hearatale.sightwords.dev:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -11709,18 +11709,18 @@ public final class R {
       0x7f0301b1
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:backgroundTint
+     * @attr name com.hearatale.sightwords.dev:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11737,11 +11737,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:backgroundTintMode
+     * @attr name com.hearatale.sightwords.dev:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11750,11 +11750,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:borderWidth
+     * @attr name com.hearatale.sightwords.dev:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11763,11 +11763,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:elevation
+     * @attr name com.hearatale.sightwords.dev:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11776,11 +11776,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:fabCustomSize
+     * @attr name com.hearatale.sightwords.dev:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11794,11 +11794,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:fabSize
+     * @attr name com.hearatale.sightwords.dev:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11807,28 +11807,28 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:pressedTranslationZ
+     * @attr name com.hearatale.sightwords.dev:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:rippleColor
+     * @attr name com.hearatale.sightwords.dev:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:useCompatPadding
+     * @attr name com.hearatale.sightwords.dev:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=8;
     /**
@@ -11838,7 +11838,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.hearatale.phonics.dev:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.hearatale.sightwords.dev:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -11846,13 +11846,13 @@ public final class R {
       0x7f030039
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:behavior_autoHide
+     * @attr name com.hearatale.sightwords.dev:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -11862,12 +11862,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.hearatale.phonics.dev:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.hearatale.phonics.dev:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.hearatale.phonics.dev:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.hearatale.phonics.dev:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.hearatale.phonics.dev:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.hearatale.phonics.dev:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.hearatale.sightwords.dev:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.hearatale.sightwords.dev:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.hearatale.sightwords.dev:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.hearatale.sightwords.dev:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.hearatale.sightwords.dev:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.hearatale.sightwords.dev:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -11881,17 +11881,17 @@ public final class R {
       0x7f0300b1, 0x7f0300b2
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:fontProviderAuthority
+     * @attr name com.hearatale.sightwords.dev:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11899,11 +11899,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:fontProviderCerts
+     * @attr name com.hearatale.sightwords.dev:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11916,11 +11916,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:fontProviderFetchStrategy
+     * @attr name com.hearatale.sightwords.dev:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11933,27 +11933,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:fontProviderFetchTimeout
+     * @attr name com.hearatale.sightwords.dev:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:fontProviderPackage
+     * @attr name com.hearatale.sightwords.dev:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:fontProviderQuery
+     * @attr name com.hearatale.sightwords.dev:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -11966,9 +11966,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.hearatale.phonics.dev:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.hearatale.phonics.dev:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.hearatale.phonics.dev:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.hearatale.sightwords.dev:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.hearatale.sightwords.dev:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.hearatale.sightwords.dev:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -12020,7 +12020,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12028,11 +12028,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:font
+     * @attr name com.hearatale.sightwords.dev:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12045,16 +12045,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:fontStyle
+     * @attr name com.hearatale.sightwords.dev:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:fontWeight
+     * @attr name com.hearatale.sightwords.dev:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -12066,7 +12066,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.hearatale.phonics.dev:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.hearatale.sightwords.dev:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -12118,13 +12118,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:foregroundInsidePadding
+     * @attr name com.hearatale.sightwords.dev:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -12170,10 +12170,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.hearatale.phonics.dev:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.hearatale.phonics.dev:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.hearatale.phonics.dev:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.hearatale.phonics.dev:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.hearatale.sightwords.dev:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.hearatale.sightwords.dev:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.hearatale.sightwords.dev:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.hearatale.sightwords.dev:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -12265,7 +12265,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12273,11 +12273,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:divider
+     * @attr name com.hearatale.sightwords.dev:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12286,21 +12286,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:dividerPadding
+     * @attr name com.hearatale.sightwords.dev:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:measureWithLargestChild
+     * @attr name com.hearatale.sightwords.dev:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12315,7 +12315,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:showDividers
+     * @attr name com.hearatale.sightwords.dev:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -12587,16 +12587,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.hearatale.phonics.dev:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.hearatale.phonics.dev:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.hearatale.phonics.dev:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.hearatale.phonics.dev:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.hearatale.phonics.dev:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.hearatale.phonics.dev:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.hearatale.phonics.dev:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.hearatale.phonics.dev:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.hearatale.phonics.dev:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.hearatale.phonics.dev:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.hearatale.sightwords.dev:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.hearatale.sightwords.dev:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.hearatale.sightwords.dev:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.hearatale.sightwords.dev:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.hearatale.sightwords.dev:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.hearatale.sightwords.dev:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.hearatale.sightwords.dev:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.hearatale.sightwords.dev:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.hearatale.sightwords.dev:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.hearatale.sightwords.dev:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -12773,7 +12773,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12781,31 +12781,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:actionLayout
+     * @attr name com.hearatale.sightwords.dev:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:actionProviderClass
+     * @attr name com.hearatale.sightwords.dev:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:actionViewClass
+     * @attr name com.hearatale.sightwords.dev:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12822,32 +12822,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:alphabeticModifiers
+     * @attr name com.hearatale.sightwords.dev:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:contentDescription
+     * @attr name com.hearatale.sightwords.dev:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:iconTint
+     * @attr name com.hearatale.sightwords.dev:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12864,11 +12864,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:iconTintMode
+     * @attr name com.hearatale.sightwords.dev:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12885,11 +12885,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:numericModifiers
+     * @attr name com.hearatale.sightwords.dev:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12905,17 +12905,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:showAsAction
+     * @attr name com.hearatale.sightwords.dev:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:tooltipText
+     * @attr name com.hearatale.sightwords.dev:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -12932,8 +12932,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.hearatale.phonics.dev:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.hearatale.phonics.dev:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.hearatale.sightwords.dev:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.hearatale.sightwords.dev:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -13038,17 +13038,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:preserveIconSpacing
+     * @attr name com.hearatale.sightwords.dev:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13056,7 +13056,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:subMenuArrow
+     * @attr name com.hearatale.sightwords.dev:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -13069,13 +13069,13 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.hearatale.phonics.dev:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.hearatale.phonics.dev:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.hearatale.phonics.dev:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.hearatale.phonics.dev:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.hearatale.phonics.dev:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.hearatale.phonics.dev:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.hearatale.phonics.dev:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.hearatale.sightwords.dev:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.hearatale.sightwords.dev:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.hearatale.sightwords.dev:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.hearatale.sightwords.dev:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.hearatale.sightwords.dev:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.hearatale.sightwords.dev:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.hearatale.sightwords.dev:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -13132,7 +13132,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13141,11 +13141,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:elevation
+     * @attr name com.hearatale.sightwords.dev:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13153,11 +13153,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:headerLayout
+     * @attr name com.hearatale.sightwords.dev:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13165,22 +13165,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemBackground
+     * @attr name com.hearatale.sightwords.dev:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemIconTint
+     * @attr name com.hearatale.sightwords.dev:itemIconTint
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13188,22 +13188,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemTextAppearance
+     * @attr name com.hearatale.sightwords.dev:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:itemTextColor
+     * @attr name com.hearatale.sightwords.dev:itemTextColor
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13211,7 +13211,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:menu
+     * @attr name com.hearatale.sightwords.dev:menu
      */
     public static final int NavigationView_menu=9;
     /**
@@ -13221,7 +13221,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PatternPathMotion_patternPathData com.hearatale.phonics.dev:patternPathData}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PatternPathMotion_patternPathData com.hearatale.sightwords.dev:patternPathData}</code></td><td></td></tr>
      * </table>
      * @see #PatternPathMotion_patternPathData
      */
@@ -13229,13 +13229,13 @@ public final class R {
       0x7f030137
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#patternPathData}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#patternPathData}
      * attribute's value can be found in the {@link #PatternPathMotion} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:patternPathData
+     * @attr name com.hearatale.sightwords.dev:patternPathData
      */
     public static final int PatternPathMotion_patternPathData=0;
     /**
@@ -13247,7 +13247,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.hearatale.phonics.dev:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.hearatale.sightwords.dev:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -13284,13 +13284,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:overlapAnchor
+     * @attr name com.hearatale.sightwords.dev:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -13300,7 +13300,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.hearatale.phonics.dev:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.hearatale.sightwords.dev:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -13308,13 +13308,13 @@ public final class R {
       0x7f030160
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:state_above_anchor
+     * @attr name com.hearatale.sightwords.dev:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -13324,9 +13324,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RatioLinearLayout_fixed_attribute com.hearatale.phonics.dev:fixed_attribute}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RatioLinearLayout_horizontal_ratio com.hearatale.phonics.dev:horizontal_ratio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RatioLinearLayout_vertical_ratio com.hearatale.phonics.dev:vertical_ratio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RatioLinearLayout_fixed_attribute com.hearatale.sightwords.dev:fixed_attribute}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RatioLinearLayout_horizontal_ratio com.hearatale.sightwords.dev:horizontal_ratio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RatioLinearLayout_vertical_ratio com.hearatale.sightwords.dev:vertical_ratio}</code></td><td></td></tr>
      * </table>
      * @see #RatioLinearLayout_fixed_attribute
      * @see #RatioLinearLayout_horizontal_ratio
@@ -13336,7 +13336,7 @@ public final class R {
       0x7f0300aa, 0x7f0300c1, 0x7f0301b2
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fixed_attribute}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fixed_attribute}
      * attribute's value can be found in the {@link #RatioLinearLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13349,25 +13349,25 @@ public final class R {
      * <tr><td>WIDTH</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:fixed_attribute
+     * @attr name com.hearatale.sightwords.dev:fixed_attribute
      */
     public static final int RatioLinearLayout_fixed_attribute=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#horizontal_ratio}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#horizontal_ratio}
      * attribute's value can be found in the {@link #RatioLinearLayout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:horizontal_ratio
+     * @attr name com.hearatale.sightwords.dev:horizontal_ratio
      */
     public static final int RatioLinearLayout_horizontal_ratio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#vertical_ratio}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#vertical_ratio}
      * attribute's value can be found in the {@link #RatioLinearLayout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:vertical_ratio
+     * @attr name com.hearatale.sightwords.dev:vertical_ratio
      */
     public static final int RatioLinearLayout_vertical_ratio=2;
     /**
@@ -13377,8 +13377,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.hearatale.phonics.dev:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.hearatale.phonics.dev:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.hearatale.sightwords.dev:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.hearatale.sightwords.dev:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -13387,7 +13387,7 @@ public final class R {
       0x7f03012b, 0x7f03012e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13396,11 +13396,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:paddingBottomNoButtons
+     * @attr name com.hearatale.sightwords.dev:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13409,7 +13409,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:paddingTopNoTitle
+     * @attr name com.hearatale.sightwords.dev:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -13421,15 +13421,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.hearatale.phonics.dev:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.hearatale.phonics.dev:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.hearatale.phonics.dev:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.hearatale.phonics.dev:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.hearatale.phonics.dev:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.hearatale.phonics.dev:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.hearatale.phonics.dev:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.hearatale.phonics.dev:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.hearatale.phonics.dev:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.hearatale.sightwords.dev:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.hearatale.sightwords.dev:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.hearatale.sightwords.dev:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.hearatale.sightwords.dev:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.hearatale.sightwords.dev:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.hearatale.sightwords.dev:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.hearatale.sightwords.dev:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.hearatale.sightwords.dev:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.hearatale.sightwords.dev:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -13484,17 +13484,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:fastScrollEnabled
+     * @attr name com.hearatale.sightwords.dev:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13502,11 +13502,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:fastScrollHorizontalThumbDrawable
+     * @attr name com.hearatale.sightwords.dev:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13514,11 +13514,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:fastScrollHorizontalTrackDrawable
+     * @attr name com.hearatale.sightwords.dev:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13526,11 +13526,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:fastScrollVerticalThumbDrawable
+     * @attr name com.hearatale.sightwords.dev:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13538,46 +13538,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:fastScrollVerticalTrackDrawable
+     * @attr name com.hearatale.sightwords.dev:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:layoutManager
+     * @attr name com.hearatale.sightwords.dev:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:reverseLayout
+     * @attr name com.hearatale.sightwords.dev:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:spanCount
+     * @attr name com.hearatale.sightwords.dev:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:stackFromEnd
+     * @attr name com.hearatale.sightwords.dev:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -13587,7 +13587,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Scale_disappearedScale com.hearatale.phonics.dev:disappearedScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Scale_disappearedScale com.hearatale.sightwords.dev:disappearedScale}</code></td><td></td></tr>
      * </table>
      * @see #Scale_disappearedScale
      */
@@ -13595,12 +13595,12 @@ public final class R {
       0x7f030084
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#disappearedScale}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#disappearedScale}
      * attribute's value can be found in the {@link #Scale} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hearatale.phonics.dev:disappearedScale
+     * @attr name com.hearatale.sightwords.dev:disappearedScale
      */
     public static final int Scale_disappearedScale=0;
     /**
@@ -13610,7 +13610,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.hearatale.phonics.dev:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.hearatale.sightwords.dev:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -13618,7 +13618,7 @@ public final class R {
       0x7f0300c9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13629,7 +13629,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:insetForeground
+     * @attr name com.hearatale.sightwords.dev:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -13639,7 +13639,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.hearatale.phonics.dev:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.hearatale.sightwords.dev:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -13647,7 +13647,7 @@ public final class R {
       0x7f03003b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13656,7 +13656,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:behavior_overlapTop
+     * @attr name com.hearatale.sightwords.dev:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -13670,19 +13670,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.hearatale.phonics.dev:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.hearatale.phonics.dev:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.hearatale.phonics.dev:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.hearatale.phonics.dev:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.hearatale.phonics.dev:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.hearatale.phonics.dev:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.hearatale.phonics.dev:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.hearatale.phonics.dev:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.hearatale.phonics.dev:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.hearatale.phonics.dev:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.hearatale.phonics.dev:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.hearatale.phonics.dev:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.hearatale.phonics.dev:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.hearatale.sightwords.dev:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.hearatale.sightwords.dev:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.hearatale.sightwords.dev:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.hearatale.sightwords.dev:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.hearatale.sightwords.dev:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.hearatale.sightwords.dev:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.hearatale.sightwords.dev:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.hearatale.sightwords.dev:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.hearatale.sightwords.dev:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.hearatale.sightwords.dev:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.hearatale.sightwords.dev:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.hearatale.sightwords.dev:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.hearatale.sightwords.dev:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -13820,7 +13820,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13828,11 +13828,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:closeIcon
+     * @attr name com.hearatale.sightwords.dev:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13840,21 +13840,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:commitIcon
+     * @attr name com.hearatale.sightwords.dev:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:defaultQueryHint
+     * @attr name com.hearatale.sightwords.dev:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13862,21 +13862,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:goIcon
+     * @attr name com.hearatale.sightwords.dev:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:iconifiedByDefault
+     * @attr name com.hearatale.sightwords.dev:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13884,11 +13884,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:layout
+     * @attr name com.hearatale.sightwords.dev:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13896,21 +13896,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:queryBackground
+     * @attr name com.hearatale.sightwords.dev:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:queryHint
+     * @attr name com.hearatale.sightwords.dev:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13918,11 +13918,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:searchHintIcon
+     * @attr name com.hearatale.sightwords.dev:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13930,11 +13930,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:searchIcon
+     * @attr name com.hearatale.sightwords.dev:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13942,11 +13942,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:submitBackground
+     * @attr name com.hearatale.sightwords.dev:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13954,11 +13954,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:suggestionRowLayout
+     * @attr name com.hearatale.sightwords.dev:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13966,7 +13966,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:voiceIcon
+     * @attr name com.hearatale.sightwords.dev:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -13976,7 +13976,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Slide_slideEdge com.hearatale.phonics.dev:slideEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Slide_slideEdge com.hearatale.sightwords.dev:slideEdge}</code></td><td></td></tr>
      * </table>
      * @see #Slide_slideEdge
      */
@@ -13984,7 +13984,7 @@ public final class R {
       0x7f030157
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#slideEdge}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#slideEdge}
      * attribute's value can be found in the {@link #Slide} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13999,7 +13999,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:slideEdge
+     * @attr name com.hearatale.sightwords.dev:slideEdge
      */
     public static final int Slide_slideEdge=0;
     /**
@@ -14010,8 +14010,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.hearatale.phonics.dev:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.hearatale.phonics.dev:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.hearatale.sightwords.dev:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.hearatale.sightwords.dev:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -14034,7 +14034,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14043,11 +14043,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:elevation
+     * @attr name com.hearatale.sightwords.dev:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14056,7 +14056,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:maxActionInlineWidth
+     * @attr name com.hearatale.sightwords.dev:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -14070,7 +14070,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.hearatale.phonics.dev:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.hearatale.sightwords.dev:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -14145,7 +14145,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14153,7 +14153,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:popupTheme
+     * @attr name com.hearatale.sightwords.dev:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -14166,17 +14166,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.hearatale.phonics.dev:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.hearatale.phonics.dev:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.hearatale.phonics.dev:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.hearatale.phonics.dev:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.hearatale.phonics.dev:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.hearatale.phonics.dev:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.hearatale.phonics.dev:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.hearatale.phonics.dev:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.hearatale.phonics.dev:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.hearatale.phonics.dev:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.hearatale.phonics.dev:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.hearatale.sightwords.dev:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.hearatale.sightwords.dev:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.hearatale.sightwords.dev:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.hearatale.sightwords.dev:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.hearatale.sightwords.dev:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.hearatale.sightwords.dev:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.hearatale.sightwords.dev:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.hearatale.sightwords.dev:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.hearatale.sightwords.dev:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.hearatale.sightwords.dev:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.hearatale.sightwords.dev:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -14232,27 +14232,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:showText
+     * @attr name com.hearatale.sightwords.dev:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:splitTrack
+     * @attr name com.hearatale.sightwords.dev:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14261,11 +14261,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:switchMinWidth
+     * @attr name com.hearatale.sightwords.dev:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14274,11 +14274,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:switchPadding
+     * @attr name com.hearatale.sightwords.dev:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14286,11 +14286,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:switchTextAppearance
+     * @attr name com.hearatale.sightwords.dev:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14299,22 +14299,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:thumbTextPadding
+     * @attr name com.hearatale.sightwords.dev:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:thumbTint
+     * @attr name com.hearatale.sightwords.dev:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14331,11 +14331,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:thumbTintMode
+     * @attr name com.hearatale.sightwords.dev:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14343,22 +14343,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:track
+     * @attr name com.hearatale.sightwords.dev:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:trackTint
+     * @attr name com.hearatale.sightwords.dev:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14375,7 +14375,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:trackTintMode
+     * @attr name com.hearatale.sightwords.dev:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -14437,22 +14437,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.hearatale.phonics.dev:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.hearatale.phonics.dev:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.hearatale.phonics.dev:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.hearatale.phonics.dev:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.hearatale.phonics.dev:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.hearatale.phonics.dev:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.hearatale.phonics.dev:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.hearatale.phonics.dev:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.hearatale.phonics.dev:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.hearatale.phonics.dev:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.hearatale.phonics.dev:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.hearatale.phonics.dev:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.hearatale.phonics.dev:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.hearatale.phonics.dev:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.hearatale.phonics.dev:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.hearatale.phonics.dev:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.hearatale.sightwords.dev:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.hearatale.sightwords.dev:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.hearatale.sightwords.dev:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.hearatale.sightwords.dev:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.hearatale.sightwords.dev:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.hearatale.sightwords.dev:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.hearatale.sightwords.dev:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.hearatale.sightwords.dev:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.hearatale.sightwords.dev:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.hearatale.sightwords.dev:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.hearatale.sightwords.dev:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.hearatale.sightwords.dev:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.hearatale.sightwords.dev:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.hearatale.sightwords.dev:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.hearatale.sightwords.dev:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.hearatale.sightwords.dev:tabTextColor}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -14478,7 +14478,7 @@ public final class R {
       0x7f03017c, 0x7f03017d, 0x7f03017e, 0x7f03017f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14486,11 +14486,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tabBackground
+     * @attr name com.hearatale.sightwords.dev:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14499,11 +14499,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabContentStart
+     * @attr name com.hearatale.sightwords.dev:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14516,22 +14516,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:tabGravity
+     * @attr name com.hearatale.sightwords.dev:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tabIndicatorColor
+     * @attr name com.hearatale.sightwords.dev:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14540,11 +14540,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabIndicatorHeight
+     * @attr name com.hearatale.sightwords.dev:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14553,11 +14553,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabMaxWidth
+     * @attr name com.hearatale.sightwords.dev:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14566,11 +14566,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabMinWidth
+     * @attr name com.hearatale.sightwords.dev:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14583,11 +14583,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:tabMode
+     * @attr name com.hearatale.sightwords.dev:tabMode
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14596,11 +14596,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabPadding
+     * @attr name com.hearatale.sightwords.dev:tabPadding
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14609,11 +14609,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabPaddingBottom
+     * @attr name com.hearatale.sightwords.dev:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14622,11 +14622,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabPaddingEnd
+     * @attr name com.hearatale.sightwords.dev:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14635,11 +14635,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabPaddingStart
+     * @attr name com.hearatale.sightwords.dev:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14648,22 +14648,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:tabPaddingTop
+     * @attr name com.hearatale.sightwords.dev:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tabSelectedTextColor
+     * @attr name com.hearatale.sightwords.dev:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14671,18 +14671,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tabTextAppearance
+     * @attr name com.hearatale.sightwords.dev:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:tabTextColor
+     * @attr name com.hearatale.sightwords.dev:tabTextColor
      */
     public static final int TabLayout_tabTextColor=15;
     /**
@@ -14703,8 +14703,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.hearatale.phonics.dev:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.hearatale.phonics.dev:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.hearatale.sightwords.dev:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.hearatale.sightwords.dev:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -14870,17 +14870,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:fontFamily
+     * @attr name com.hearatale.sightwords.dev:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14890,7 +14890,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:textAllCaps
+     * @attr name com.hearatale.sightwords.dev:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -14902,20 +14902,20 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.hearatale.phonics.dev:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.hearatale.phonics.dev:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.hearatale.phonics.dev:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.hearatale.phonics.dev:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.hearatale.phonics.dev:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.hearatale.phonics.dev:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.hearatale.phonics.dev:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.hearatale.phonics.dev:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.hearatale.phonics.dev:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.hearatale.phonics.dev:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.hearatale.phonics.dev:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.hearatale.phonics.dev:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.hearatale.phonics.dev:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.hearatale.phonics.dev:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.hearatale.sightwords.dev:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.hearatale.sightwords.dev:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.hearatale.sightwords.dev:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.hearatale.sightwords.dev:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.hearatale.sightwords.dev:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.hearatale.sightwords.dev:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.hearatale.sightwords.dev:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.hearatale.sightwords.dev:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.hearatale.sightwords.dev:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.hearatale.sightwords.dev:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.hearatale.sightwords.dev:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.hearatale.sightwords.dev:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.hearatale.sightwords.dev:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.hearatale.sightwords.dev:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -14966,26 +14966,26 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:counterEnabled
+     * @attr name com.hearatale.sightwords.dev:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:counterMaxLength
+     * @attr name com.hearatale.sightwords.dev:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14993,11 +14993,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:counterOverflowTextAppearance
+     * @attr name com.hearatale.sightwords.dev:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15005,21 +15005,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:counterTextAppearance
+     * @attr name com.hearatale.sightwords.dev:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:errorEnabled
+     * @attr name com.hearatale.sightwords.dev:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15027,31 +15027,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:errorTextAppearance
+     * @attr name com.hearatale.sightwords.dev:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:hintAnimationEnabled
+     * @attr name com.hearatale.sightwords.dev:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:hintEnabled
+     * @attr name com.hearatale.sightwords.dev:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15059,21 +15059,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:hintTextAppearance
+     * @attr name com.hearatale.sightwords.dev:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:passwordToggleContentDescription
+     * @attr name com.hearatale.sightwords.dev:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15081,32 +15081,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:passwordToggleDrawable
+     * @attr name com.hearatale.sightwords.dev:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hearatale.phonics.dev:passwordToggleEnabled
+     * @attr name com.hearatale.sightwords.dev:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:passwordToggleTint
+     * @attr name com.hearatale.sightwords.dev:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15122,7 +15122,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:passwordToggleTintMode
+     * @attr name com.hearatale.sightwords.dev:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=15;
     /**
@@ -15134,33 +15134,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.hearatale.phonics.dev:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.hearatale.phonics.dev:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.hearatale.phonics.dev:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.hearatale.phonics.dev:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.hearatale.phonics.dev:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.hearatale.phonics.dev:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.hearatale.phonics.dev:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.hearatale.phonics.dev:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.hearatale.phonics.dev:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.hearatale.phonics.dev:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.hearatale.phonics.dev:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.hearatale.phonics.dev:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.hearatale.phonics.dev:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.hearatale.phonics.dev:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.hearatale.phonics.dev:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.hearatale.phonics.dev:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.hearatale.phonics.dev:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.hearatale.phonics.dev:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.hearatale.phonics.dev:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.hearatale.phonics.dev:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.hearatale.phonics.dev:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.hearatale.phonics.dev:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.hearatale.phonics.dev:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.hearatale.phonics.dev:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.hearatale.phonics.dev:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.hearatale.phonics.dev:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.hearatale.phonics.dev:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.hearatale.sightwords.dev:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.hearatale.sightwords.dev:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.hearatale.sightwords.dev:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.hearatale.sightwords.dev:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.hearatale.sightwords.dev:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.hearatale.sightwords.dev:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.hearatale.sightwords.dev:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.hearatale.sightwords.dev:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.hearatale.sightwords.dev:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.hearatale.sightwords.dev:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.hearatale.sightwords.dev:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.hearatale.sightwords.dev:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.hearatale.sightwords.dev:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.hearatale.sightwords.dev:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.hearatale.sightwords.dev:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.hearatale.sightwords.dev:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.hearatale.sightwords.dev:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.hearatale.sightwords.dev:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.hearatale.sightwords.dev:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.hearatale.sightwords.dev:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.hearatale.sightwords.dev:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.hearatale.sightwords.dev:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.hearatale.sightwords.dev:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.hearatale.sightwords.dev:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.hearatale.sightwords.dev:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.hearatale.sightwords.dev:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.hearatale.sightwords.dev:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -15245,7 +15245,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -15258,21 +15258,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:buttonGravity
+     * @attr name com.hearatale.sightwords.dev:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:collapseContentDescription
+     * @attr name com.hearatale.sightwords.dev:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15280,11 +15280,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:collapseIcon
+     * @attr name com.hearatale.sightwords.dev:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15293,11 +15293,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetEnd
+     * @attr name com.hearatale.sightwords.dev:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15306,11 +15306,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetEndWithActions
+     * @attr name com.hearatale.sightwords.dev:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15319,11 +15319,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetLeft
+     * @attr name com.hearatale.sightwords.dev:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15332,11 +15332,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetRight
+     * @attr name com.hearatale.sightwords.dev:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15345,11 +15345,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetStart
+     * @attr name com.hearatale.sightwords.dev:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15358,11 +15358,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:contentInsetStartWithNavigation
+     * @attr name com.hearatale.sightwords.dev:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15370,21 +15370,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:logo
+     * @attr name com.hearatale.sightwords.dev:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:logoDescription
+     * @attr name com.hearatale.sightwords.dev:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15393,21 +15393,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:maxButtonHeight
+     * @attr name com.hearatale.sightwords.dev:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:navigationContentDescription
+     * @attr name com.hearatale.sightwords.dev:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15415,11 +15415,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:navigationIcon
+     * @attr name com.hearatale.sightwords.dev:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15427,21 +15427,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:popupTheme
+     * @attr name com.hearatale.sightwords.dev:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:subtitle
+     * @attr name com.hearatale.sightwords.dev:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15449,32 +15449,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:subtitleTextAppearance
+     * @attr name com.hearatale.sightwords.dev:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:subtitleTextColor
+     * @attr name com.hearatale.sightwords.dev:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:title
+     * @attr name com.hearatale.sightwords.dev:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15483,11 +15483,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:titleMargin
+     * @attr name com.hearatale.sightwords.dev:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15496,11 +15496,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:titleMarginBottom
+     * @attr name com.hearatale.sightwords.dev:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15509,11 +15509,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:titleMarginEnd
+     * @attr name com.hearatale.sightwords.dev:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15522,11 +15522,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:titleMarginStart
+     * @attr name com.hearatale.sightwords.dev:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15535,11 +15535,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:titleMarginTop
+     * @attr name com.hearatale.sightwords.dev:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15548,11 +15548,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:titleMargins
+     * @attr name com.hearatale.sightwords.dev:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15560,18 +15560,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:titleTextAppearance
+     * @attr name com.hearatale.sightwords.dev:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:titleTextColor
+     * @attr name com.hearatale.sightwords.dev:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -15583,10 +15583,10 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Transition_android_interpolator android:interpolator}</code></td><td></td></tr>
      * <tr><td><code>{@link #Transition_android_duration android:duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_duration com.hearatale.phonics.dev:duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_interpolator com.hearatale.phonics.dev:interpolator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_matchOrder com.hearatale.phonics.dev:matchOrder}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_startDelay com.hearatale.phonics.dev:startDelay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_duration com.hearatale.sightwords.dev:duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_interpolator com.hearatale.sightwords.dev:interpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_matchOrder com.hearatale.sightwords.dev:matchOrder}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_startDelay com.hearatale.sightwords.dev:startDelay}</code></td><td></td></tr>
      * </table>
      * @see #Transition_android_interpolator
      * @see #Transition_android_duration
@@ -15621,16 +15621,16 @@ public final class R {
      */
     public static final int Transition_android_duration=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#duration}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#duration}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:duration
+     * @attr name com.hearatale.sightwords.dev:duration
      */
     public static final int Transition_duration=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#interpolator}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#interpolator}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15638,26 +15638,26 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:interpolator
+     * @attr name com.hearatale.sightwords.dev:interpolator
      */
     public static final int Transition_interpolator=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#matchOrder}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#matchOrder}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:matchOrder
+     * @attr name com.hearatale.sightwords.dev:matchOrder
      */
     public static final int Transition_matchOrder=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#startDelay}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#startDelay}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hearatale.phonics.dev:startDelay
+     * @attr name com.hearatale.sightwords.dev:startDelay
      */
     public static final int Transition_startDelay=5;
     /**
@@ -15667,9 +15667,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TransitionManager_fromScene com.hearatale.phonics.dev:fromScene}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionManager_toScene com.hearatale.phonics.dev:toScene}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionManager_transition com.hearatale.phonics.dev:transition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionManager_fromScene com.hearatale.sightwords.dev:fromScene}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionManager_toScene com.hearatale.sightwords.dev:toScene}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionManager_transition com.hearatale.sightwords.dev:transition}</code></td><td></td></tr>
      * </table>
      * @see #TransitionManager_fromScene
      * @see #TransitionManager_toScene
@@ -15679,7 +15679,7 @@ public final class R {
       0x7f0300b6, 0x7f0301a4, 0x7f0301ae
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#fromScene}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#fromScene}
      * attribute's value can be found in the {@link #TransitionManager} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15687,11 +15687,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:fromScene
+     * @attr name com.hearatale.sightwords.dev:fromScene
      */
     public static final int TransitionManager_fromScene=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#toScene}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#toScene}
      * attribute's value can be found in the {@link #TransitionManager} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15699,11 +15699,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:toScene
+     * @attr name com.hearatale.sightwords.dev:toScene
      */
     public static final int TransitionManager_toScene=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#transition}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#transition}
      * attribute's value can be found in the {@link #TransitionManager} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15711,7 +15711,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:transition
+     * @attr name com.hearatale.sightwords.dev:transition
      */
     public static final int TransitionManager_transition=2;
     /**
@@ -15721,7 +15721,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TransitionSet_transitionOrdering com.hearatale.phonics.dev:transitionOrdering}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionSet_transitionOrdering com.hearatale.sightwords.dev:transitionOrdering}</code></td><td></td></tr>
      * </table>
      * @see #TransitionSet_transitionOrdering
      */
@@ -15729,7 +15729,7 @@ public final class R {
       0x7f0301af
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#transitionOrdering}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#transitionOrdering}
      * attribute's value can be found in the {@link #TransitionSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15742,7 +15742,7 @@ public final class R {
      * <tr><td>together</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:transitionOrdering
+     * @attr name com.hearatale.sightwords.dev:transitionOrdering
      */
     public static final int TransitionSet_transitionOrdering=0;
     /**
@@ -15752,12 +15752,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TransitionTarget_excludeClass com.hearatale.phonics.dev:excludeClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_excludeId com.hearatale.phonics.dev:excludeId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_excludeName com.hearatale.phonics.dev:excludeName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_targetClass com.hearatale.phonics.dev:targetClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_targetId com.hearatale.phonics.dev:targetId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TransitionTarget_targetName com.hearatale.phonics.dev:targetName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_excludeClass com.hearatale.sightwords.dev:excludeClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_excludeId com.hearatale.sightwords.dev:excludeId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_excludeName com.hearatale.sightwords.dev:excludeName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_targetClass com.hearatale.sightwords.dev:targetClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_targetId com.hearatale.sightwords.dev:targetId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TransitionTarget_targetName com.hearatale.sightwords.dev:targetName}</code></td><td></td></tr>
      * </table>
      * @see #TransitionTarget_excludeClass
      * @see #TransitionTarget_excludeId
@@ -15771,17 +15771,17 @@ public final class R {
       0x7f030181, 0x7f030182
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#excludeClass}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#excludeClass}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:excludeClass
+     * @attr name com.hearatale.sightwords.dev:excludeClass
      */
     public static final int TransitionTarget_excludeClass=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#excludeId}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#excludeId}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15789,31 +15789,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:excludeId
+     * @attr name com.hearatale.sightwords.dev:excludeId
      */
     public static final int TransitionTarget_excludeId=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#excludeName}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#excludeName}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:excludeName
+     * @attr name com.hearatale.sightwords.dev:excludeName
      */
     public static final int TransitionTarget_excludeName=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#targetClass}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#targetClass}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:targetClass
+     * @attr name com.hearatale.sightwords.dev:targetClass
      */
     public static final int TransitionTarget_targetClass=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#targetId}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#targetId}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15821,17 +15821,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:targetId
+     * @attr name com.hearatale.sightwords.dev:targetId
      */
     public static final int TransitionTarget_targetId=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#targetName}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#targetName}
      * attribute's value can be found in the {@link #TransitionTarget} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hearatale.phonics.dev:targetName
+     * @attr name com.hearatale.sightwords.dev:targetName
      */
     public static final int TransitionTarget_targetName=5;
     /**
@@ -15843,9 +15843,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.hearatale.phonics.dev:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.hearatale.phonics.dev:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.hearatale.phonics.dev:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.hearatale.sightwords.dev:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.hearatale.sightwords.dev:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.hearatale.sightwords.dev:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -15888,7 +15888,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15897,11 +15897,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:paddingEnd
+     * @attr name com.hearatale.sightwords.dev:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15910,11 +15910,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hearatale.phonics.dev:paddingStart
+     * @attr name com.hearatale.sightwords.dev:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15922,7 +15922,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:theme
+     * @attr name com.hearatale.sightwords.dev:theme
      */
     public static final int View_theme=4;
     /**
@@ -15933,8 +15933,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.hearatale.phonics.dev:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.hearatale.phonics.dev:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.hearatale.sightwords.dev:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.hearatale.sightwords.dev:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -15959,18 +15959,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hearatale.phonics.dev:backgroundTint
+     * @attr name com.hearatale.sightwords.dev:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15987,7 +15987,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:backgroundTintMode
+     * @attr name com.hearatale.sightwords.dev:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -16051,7 +16051,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #VisibilityTransition_transitionVisibilityMode com.hearatale.phonics.dev:transitionVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #VisibilityTransition_transitionVisibilityMode com.hearatale.sightwords.dev:transitionVisibilityMode}</code></td><td></td></tr>
      * </table>
      * @see #VisibilityTransition_transitionVisibilityMode
      */
@@ -16059,7 +16059,7 @@ public final class R {
       0x7f0301b0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.hearatale.phonics.dev.R.attr#transitionVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.hearatale.sightwords.dev.R.attr#transitionVisibilityMode}
      * attribute's value can be found in the {@link #VisibilityTransition} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16072,7 +16072,7 @@ public final class R {
      * <tr><td>mode_out</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hearatale.phonics.dev:transitionVisibilityMode
+     * @attr name com.hearatale.sightwords.dev:transitionVisibilityMode
      */
     public static final int VisibilityTransition_transitionVisibilityMode=0;
   }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/incremental/mergeDevelopmentDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/incremental/mergeDevelopmentDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-ky/values-ky.xml",
