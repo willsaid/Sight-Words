@@ -938,7 +938,7 @@
     <string name="brvah_load_failed">加载失败，请点我重试</string>
     <string name="brvah_loading">正在加载中...</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">9a5c74af-07ed-4f36-ae9b-d2cdc75ab45f</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">d84745e4-44a7-4a3e-b864-129695b4ed6e</string>
     <string name="image_transition_name">image_transition_name</string>
     <string name="no_coins">no coins</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>

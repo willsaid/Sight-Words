@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-ms_values-ms.arsc.flat",
             "map": [
                 {
@@ -28,53 +43,6 @@
                         "startOffsets": "105,216,321,429,516,620,731,809,888,968,1080,1189,1286,1395,1498,1605,1764,1865",
                         "endColumns": "110,104,107,86,103,110,77,78,79,111,108,96,108,102,106,158,100,79",
                         "endOffsets": "211,316,424,511,615,726,804,883,963,1075,1184,1281,1390,1493,1600,1759,1860,1940"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-h720dp-v13/values-h720dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "66",
-                        "endOffsets": "117"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-hi_values-hi.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-hi/values-hi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,211,308,418,504,606,728,805,883,973,1082,1185,1287,1397,1498,1613,1775,1876",
-                        "endColumns": "105,96,109,85,101,121,76,77,89,108,102,101,109,100,114,161,100,79",
-                        "endOffsets": "206,303,413,499,601,723,800,878,968,1077,1180,1282,1392,1493,1608,1770,1871,1951"
-                    }
-                },
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-hi/values-hi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1956",
-                        "endColumns": "100",
-                        "endOffsets": "2052"
                     }
                 }
             ]
@@ -137,6 +105,38 @@
                         "endLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,27,29,30,31,32,33,35,37,39,41,43,45,46,51,53,55,56,57,59,61,62,63,64,65,66,110,113,157,160,163,168,170,172,175,177,180,181,182,185,186,187,188,189,190,193,194,196,198,200,202,206,208,209,210,211,213,217,219,221,222,223,224,225,227,229,230,240,241,242,254,266",
                         "endColumns": "90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,12,111,146,12,12,74,88,86,100,102,12,12,12,12,12,12,12,12,12,12,12,88,110,12,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,70,82,12,56,57,12,12",
                         "endOffsets": "440,543,646,751,858,967,1076,1185,1294,1403,1510,1613,1732,1887,2042,2147,2268,2369,2516,2657,2760,2879,2986,3089,3244,3415,3564,3729,3886,4037,4156,4528,4677,4826,4938,5085,5238,5385,5460,5549,5636,5737,5840,8908,9093,12173,12370,12569,12903,13026,13139,13322,13453,13654,13743,13854,14087,14188,14283,14406,14535,14652,14829,14928,15063,15206,15341,15460,15661,15780,15873,15984,16040,16147,16342,16453,16586,16681,16772,16863,16980,17119,17287,17370,18050,18107,18165,18859,19565"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,308,418,504,606,728,805,883,973,1082,1185,1287,1397,1498,1613,1775,1876",
+                        "endColumns": "105,96,109,85,101,121,76,77,89,108,102,101,109,100,114,161,100,79",
+                        "endOffsets": "206,303,413,499,601,723,800,878,968,1077,1180,1282,1392,1493,1608,1770,1871,1951"
+                    }
+                },
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1956",
+                        "endColumns": "100",
+                        "endOffsets": "2052"
                     }
                 }
             ]
@@ -984,38 +984,6 @@
             ]
         },
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-en-rAU_values-en-rAU.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1907",
-                        "endColumns": "100",
-                        "endOffsets": "2003"
-                    }
-                },
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-sq_values-sq.arsc.flat",
             "map": [
                 {
@@ -1043,6 +1011,38 @@
                         "startOffsets": "1962",
                         "endColumns": "100",
                         "endOffsets": "2058"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1907",
+                        "endColumns": "100",
+                        "endOffsets": "2003"
+                    }
+                },
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
                     }
                 }
             ]
@@ -1080,10 +1080,10 @@
             ]
         },
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-mk_values-mk.arsc.flat",
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-hu_values-hu.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-mk/values-mk.xml",
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1094,19 +1094,19 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1961",
+                        "startOffsets": "2021",
                         "endColumns": "100",
-                        "endOffsets": "2057"
+                        "endOffsets": "2117"
                     }
                 },
                 {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-mk/values-mk.xml",
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
-                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
-                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
+                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
+                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
+                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
                     }
                 }
             ]
@@ -1144,10 +1144,10 @@
             ]
         },
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-hu_values-hu.arsc.flat",
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Brainy-Phonics-Android2/app/build/intermediates/res/merged/development/debug/values-mk_values-mk.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-hu/values-hu.xml",
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1158,19 +1158,19 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2021",
+                        "startOffsets": "1961",
                         "endColumns": "100",
-                        "endOffsets": "2117"
+                        "endOffsets": "2057"
                     }
                 },
                 {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-hu/values-hu.xml",
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
-                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
-                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
+                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
+                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
+                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
                     }
                 }
             ]
