@@ -1,4 +1,4 @@
-package com.hearatale.phonics;
+package com.hearatale.sightwords;
 
 import org.junit.Test;
 

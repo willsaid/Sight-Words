@@ -21,7 +21,7 @@ public class PuzzleLetterFragment_ViewBinding implements Unbinder {
 
   private View view2131296374;
 
-  private View view2131296527;
+  private View view2131296526;
 
   @UiThread
   public PuzzleLetterFragment_ViewBinding(final PuzzleLetterFragment target, View source) {
@@ -49,7 +49,7 @@ public class PuzzleLetterFragment_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.text_title, "field 'textTitle' and method 'playAudioAndAnimationLetter'");
     target.textTitle = Utils.castView(view, R.id.text_title, "field 'textTitle'", TextView.class);
-    view2131296527 = view;
+    view2131296526 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,7 +74,7 @@ public class PuzzleLetterFragment_ViewBinding implements Unbinder {
     view2131296413 = null;
     view2131296374.setOnClickListener(null);
     view2131296374 = null;
-    view2131296527.setOnClickListener(null);
-    view2131296527 = null;
+    view2131296526.setOnClickListener(null);
+    view2131296526 = null;
   }
 }

@@ -1,4 +1,4 @@
-package com.hearatale.phonics;
+package com.hearatale.sightwords;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

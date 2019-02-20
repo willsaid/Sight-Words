@@ -5,23 +5,58 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
+    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.2.0"
-    timestamp="1550702766914"
+    timestamp="1550704423886"
     token="-234000920383167416"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="16667" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="178" />
     <task
         name="verifier"
-        duration="0" />
+        duration="48" />
+
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/resources/instant-run/development/debug/resources-development-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/instant-run-apk/development/debug/com.hearatale.sightwords.dev_1.2.3_123.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -69,7 +104,42 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1550702766914"
-        verifier="COLD_SWAP_REQUESTED" />
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1550704423886"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/resources/instant-run/development/debug/resources-development-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/split-apk/development/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/instant-run-apk/development/debug/com.hearatale.sightwords.dev_1.2.3_123.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>

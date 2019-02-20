@@ -1081,7 +1081,6 @@ id layout_top_ez
 id left
 id line1
 id line3
-id linkText
 id listMode
 id list_item
 id load_more_load_end_view
@@ -1312,6 +1311,7 @@ mipmap back
 mipmap bag_of_coins
 mipmap bank
 mipmap brainy_phonics_logo
+mipmap brainy_sight_words_logo
 mipmap check
 mipmap coin_10
 mipmap coin_15

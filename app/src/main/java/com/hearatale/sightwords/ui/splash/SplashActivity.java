@@ -30,9 +30,6 @@ public class SplashActivity extends BaseActivity {
     @BindView(R.id.image_artwork)
     ImageView imageArtwork;
 
-    @BindView(R.id.linkText)
-    TextView linkText;
-
     @MainDef
     int mMainDef = MainDef.BRAINY_PHONICS;
 
@@ -55,10 +52,9 @@ public class SplashActivity extends BaseActivity {
         switch (mMainDef) {
 
             case MainDef.BRAINY_PHONICS:
-                String path = Config.SOUND_PATH + "brainy phonics";
+                String path = Config.SOUND_PATH + "brainy sight words";
                 AudioPlayerHelper.getInstance().playAudio(path);
                 imageArtwork.setImageResource(R.mipmap.brainy_phonics_logo);
-                linkText.setVisibility(View.VISIBLE);
                 runnableDelay = new Runnable() {
                     @Override
                     public void run() {

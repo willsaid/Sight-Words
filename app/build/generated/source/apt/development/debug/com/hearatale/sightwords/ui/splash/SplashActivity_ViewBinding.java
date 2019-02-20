@@ -5,7 +5,6 @@ import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
 import com.hearatale.sightwords.R;
@@ -25,7 +24,6 @@ public class SplashActivity_ViewBinding implements Unbinder {
     this.target = target;
 
     target.imageArtwork = Utils.findRequiredViewAsType(source, R.id.image_artwork, "field 'imageArtwork'", ImageView.class);
-    target.linkText = Utils.findRequiredViewAsType(source, R.id.linkText, "field 'linkText'", TextView.class);
   }
 
   @Override
@@ -36,6 +34,5 @@ public class SplashActivity_ViewBinding implements Unbinder {
     this.target = null;
 
     target.imageArtwork = null;
-    target.linkText = null;
   }
 }
