@@ -1,0 +1,7 @@
+<resources>
+    <!--<string name="app_name">Phonics</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_transition_name">image_transition_name</string>
+    <string name="no_coins">no coins</string>
+</resources>

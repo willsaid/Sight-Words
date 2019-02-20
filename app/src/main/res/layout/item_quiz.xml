@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hearatale.sightwords.ui.custom_view.RatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_content"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    app:fixed_attribute="HEIGHT"
+    android:background="@color/brown_light"
+    android:transitionName="@string/image_transition_name"
+    app:horizontal_ratio="3"
+    app:vertical_ratio="4">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_view_text_letter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="a"
+        android:textSize="@dimen/sp_36" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/image_puzzle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:transitionName="@string/image_transition_name"
+        android:gravity="center"
+        android:textSize="@dimen/sp_20"/>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_title"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/shape_quiz_puzzle"
+        android:gravity="center"
+        android:text="a"
+        android:textSize="@dimen/sp_24"
+        android:textStyle="bold"
+        android:layout_gravity="bottom|end"/>
+
+
+</com.hearatale.sightwords.ui.custom_view.RatioFrameLayout>

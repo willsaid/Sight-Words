@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><!--puzzle-->
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_puzzle_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cyan_light"
+    android:orientation="vertical"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintStart_toEndOf="@+id/toolbar_layout"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintWidth_percent="0.3"
+    tools:context=".ui.quiz_puzzle.content.PuzzleLetterFragment">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="a"
+        android:textSize="@dimen/sp_72" />
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_title">
+
+        <RelativeLayout
+            android:id="@+id/layout_puzzle_fake"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@color/blue_light"
+            android:transitionName="@string/image_transition_name"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="h,3:4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.9"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.3"
+            app:layout_constraintWidth_percent="0.7" />
+
+        <RelativeLayout
+            android:id="@+id/layout_puzzle"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:transitionName="@string/image_transition_name"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="h,3:4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.9"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.3"
+            app:layout_constraintWidth_percent="0.7" />
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/image_puzzle_completed"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:transitionName="@string/image_transition_name"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="h,3:4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.9"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.3"
+            app:layout_constraintWidth_percent="0.7" />
+
+
+    </android.support.constraint.ConstraintLayout>
+</android.support.v7.widget.LinearLayoutCompat>

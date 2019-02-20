@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hearatale.sightwords.ui.custom_view.RatioCardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="0dp"
+    app:cardCornerRadius="@dimen/dp_32"
+    app:fixed_attribute="WIDTH"
+    app:horizontal_ratio="6"
+    app:vertical_ratio="5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dp_20"
+        android:paddingEnd="@dimen/dp_12"
+        android:paddingStart="@dimen/dp_12"
+        android:paddingTop="@dimen/dp_12">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/text_title"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textSize="40sp"
+            app:autoSizeTextType="uniform" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/image_artwork_first"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@mipmap/secret_stuff_logo" />
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/image_artwork_second"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@mipmap/secret_stuff_logo" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="0.5"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/image_stars"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_star"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:scaleType="fitStart"
+            android:src="@mipmap/star_5">
+
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/image_done"
+            android:layout_width="@dimen/dp_24"
+            android:layout_height="@dimen/dp_24"
+            android:layout_gravity="end|bottom"
+            android:src="@mipmap/check"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+</com.hearatale.sightwords.ui.custom_view.RatioCardLayout>

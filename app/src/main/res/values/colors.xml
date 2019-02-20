@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#89D4CF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#D5463C</color>
+
+    <color name="cyan">#C4E8E6</color>
+    <color name="brown_light">#EDF4EC</color>
+    <color name="cyan_dark">#89D4CE</color>
+    <color name="blue_light">#C9E5E9</color>
+    <color name="cyan_light">#D9F2F0</color>
+
+    <color name="cyan_lighter">#C1E5D6</color>
+    <color name="cyan_darker">#82CBAD</color>
+
+    <color name="green_light">#C8E7C0</color>
+    <color name="green_dark">#91CE81</color>
+
+    <color name="white">#ffffff</color>
+    <color name="letter_action_bar">#88D3CE</color>
+
+    <color name="blue">#6EC7D4</color>
+
+    <color name="orange_alphabet">#f76b00</color>
+    <color name="green_alphabet">#23bf00</color>
+    <color name="purple_alphabet">#ed00d9</color>
+    <color name="black_alphabet">#000000</color>
+    <color name="blue_alphabet">#6EC7D4</color>
+
+
+    <color name="blue_ez">#D0E9E7</color>
+
+    <color name="blue_dark_standard">#6EC7D4</color>
+    <color name="blue_light_standard">#D1EEF2</color>
+</resources>

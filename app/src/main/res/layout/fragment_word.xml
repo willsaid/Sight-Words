@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hearatale.sightwords.ui.custom_view.PHConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_letter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    tools:context=".ui.quiz_puzzle.content.WordFragment">
+
+    <!--up standard left-->
+    <include
+        android:id="@+id/layout_standard_top_left"
+        layout="@layout/item_quiz_puzzle_letter"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/guide_line_center_horizontal"
+        app:layout_constraintEnd_toStartOf="@+id/guide_line_center_vertical"
+        app:layout_constraintHeight_percent="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.45" />
+
+    <!--up standard right-->
+    <include
+        android:id="@+id/layout_standard_top_right"
+        layout="@layout/item_quiz_puzzle_letter"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:layout_constraintBottom_toTopOf="@+id/guide_line_center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.45"
+        app:layout_constraintStart_toStartOf="@+id/guide_line_center_vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.45" />
+
+    <!--up ez -->
+    <include
+        android:id="@+id/layout_top_ez"
+        layout="@layout/item_quiz_puzzle_letter"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:layout_constraintBottom_toTopOf="@+id/guide_line_center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.45" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guide_line_center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guide_line_center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <!--down left -->
+    <include
+        android:id="@+id/layout_letter_bot_left"
+        layout="@layout/item_quiz_puzzle_letter"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guide_line_center_vertical"
+        app:layout_constraintHeight_percent="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guide_line_center_horizontal"
+        app:layout_constraintWidth_percent="0.45" />
+
+    <!--down right -->
+    <include
+        android:id="@+id/layout_letter_bot_right"
+        layout="@layout/item_quiz_puzzle_letter"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.45"
+        app:layout_constraintStart_toStartOf="@+id/guide_line_center_vertical"
+        app:layout_constraintTop_toTopOf="@+id/guide_line_center_horizontal"
+        app:layout_constraintWidth_percent="0.45" />
+
+
+</com.hearatale.sightwords.ui.custom_view.PHConstraintLayout>
+
