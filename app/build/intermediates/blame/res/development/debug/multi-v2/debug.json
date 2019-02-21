@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
@@ -28,21 +43,6 @@
                         "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
                         "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
                         "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-ldltr-v21/values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
                     }
                 }
             ]
@@ -334,38 +334,6 @@
             ]
         },
         {
-            "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1733",
-                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
-                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1806"
-                    }
-                },
-                {
-                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1811",
-                        "endColumns": "100",
-                        "endOffsets": "1907"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/values-iw_values-iw.arsc.flat",
             "map": [
                 {
@@ -393,6 +361,38 @@
                         "startOffsets": "105,209,308,416,500,600,714,792,870,951,1053,1157,1255,1358,1459,1559,1711,1807",
                         "endColumns": "103,98,107,83,99,113,77,77,80,101,103,97,102,100,99,151,95,80",
                         "endOffsets": "204,303,411,495,595,709,787,865,946,1048,1152,1250,1353,1454,1554,1706,1802,1883"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1733",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1806"
+                    }
+                },
+                {
+                    "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1811",
+                        "endColumns": "100",
+                        "endOffsets": "1907"
                     }
                 }
             ]
