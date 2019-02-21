@@ -54,7 +54,7 @@ public class SplashActivity extends BaseActivity {
             case MainDef.BRAINY_PHONICS:
                 String path = Config.SOUND_PATH + "brainy sight words";
                 AudioPlayerHelper.getInstance().playAudio(path);
-                imageArtwork.setImageResource(R.mipmap.brainy_phonics_logo);
+                imageArtwork.setImageResource(R.mipmap.brainy_sight_words_logo);
                 runnableDelay = new Runnable() {
                     @Override
                     public void run() {

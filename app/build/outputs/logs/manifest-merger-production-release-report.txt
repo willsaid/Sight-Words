@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+MERGED from [com.android.support:design:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/8e913bd22d5989f0e188f25367d098b4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7b32f3041ba670adc80e019b4091773b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cee46005ce3c39b4fc43e8f6367aa0b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b96ebb149a69ca2aab48318e48c93dac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5e66e8fa58a2c61a8f75c66ae690a70e/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/cc9f8ee2acf5dec98b13c82cf4132cb9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9b4ac45a3f6d9ac328524f8567d1e155/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e6ae0c6d8982229f65f2bbc8a9ad21f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a156ff5f37ddd555512cc20567040725/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d62300d73b861e565cfa669019bde1d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5fe3421354ec94812f8cacd61bd7d2c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/341cf1aa19db655cd0fc4fd3333ba953/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.42] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.42.aar/9144fe81dc4b4a2c5579364224140b09/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.jinatonic.confetti:confetti:1.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/confetti-1.1.1.aar/d7b121d4715cdeece182bb518d160214/AndroidManifest.xml:2:1-10:12
+MERGED from [jp.wasabeef:blurry:2.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/blurry-2.1.1.aar/7409a00dd4b0b1fddaf928db7296b91a/AndroidManifest.xml:2:1-12:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:2:1-19:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/54c22d6098c51d33b0f867df1f218f52/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda4e2c15edeb7ac649fc5077c3d4283/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7749a20255f6ab44ed328b119f7acf1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/335f3621252352b271e66d0af4283cf4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:9:5-86:19
+MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:12:5-20
+MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:12:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5e66e8fa58a2c61a8f75c66ae690a70e/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5e66e8fa58a2c61a8f75c66ae690a70e/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/cc9f8ee2acf5dec98b13c82cf4132cb9/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/cc9f8ee2acf5dec98b13c82cf4132cb9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/341cf1aa19db655cd0fc4fd3333ba953/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/341cf1aa19db655cd0fc4fd3333ba953/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:10:9-36
+activity#com.hearatale.sightwords.ui.splash.SplashActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:20:13-50
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:19:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.hearatale.sightwords.ui.main.MainActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:28:9-31:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:31:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:29:13-49
+activity#com.hearatale.sightwords.ui.simple_alphabet.SimpleAlphabetActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:33:9-36:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:36:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:34:13-70
+activity#com.hearatale.sightwords.ui.letter.LetterActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:38:9-41:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:41:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:40:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:39:13-53
+activity#com.hearatale.sightwords.ui.quiz.QuizActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:43:9-46:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:46:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:44:13-49
+activity#com.hearatale.sightwords.ui.idiom.IdiomActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:48:9-51:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:51:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:50:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:49:13-51
+activity#com.hearatale.sightwords.ui.quiz_puzzle.QuizPuzzleActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:53:9-56:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:56:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:55:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:54:13-62
+activity#com.hearatale.sightwords.ui.quiz_sight_words.QuizSightWordsActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:58:9-61:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:61:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:59:13-71
+activity#com.hearatale.sightwords.ui.sight_word.SightWordActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:63:9-66:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:66:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:64:13-60
+activity#com.hearatale.sightwords.ui.sentence.SentenceActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:68:9-71:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:71:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:70:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:69:13-57
+activity#com.hearatale.sightwords.ui.secret_stuff.SecretStuffActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:73:9-76:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:76:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:75:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:74:13-64
+activity#com.hearatale.sightwords.ui.bank.BankActivity
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:78:9-81:53
+	android:screenOrientation
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:81:13-50
+	android:configChanges
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:80:13-74
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:79:13-49
+meta-data#io.fabric.ApiKey
+ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:83:9-85:72
+	android:value
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:84:13-44
+uses-sdk
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/8e913bd22d5989f0e188f25367d098b4/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/8e913bd22d5989f0e188f25367d098b4/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7b32f3041ba670adc80e019b4091773b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7b32f3041ba670adc80e019b4091773b/AndroidManifest.xml:20:5-44
+MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.andkulikov:transitionseverywhere:1.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.8.0.aar/cc4282d6ea666111dd06d4f4deadca3a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cee46005ce3c39b4fc43e8f6367aa0b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cee46005ce3c39b4fc43e8f6367aa0b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b96ebb149a69ca2aab48318e48c93dac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b96ebb149a69ca2aab48318e48c93dac/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5e66e8fa58a2c61a8f75c66ae690a70e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5e66e8fa58a2c61a8f75c66ae690a70e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/cc9f8ee2acf5dec98b13c82cf4132cb9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/cc9f8ee2acf5dec98b13c82cf4132cb9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9b4ac45a3f6d9ac328524f8567d1e155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9b4ac45a3f6d9ac328524f8567d1e155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e6ae0c6d8982229f65f2bbc8a9ad21f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e6ae0c6d8982229f65f2bbc8a9ad21f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a156ff5f37ddd555512cc20567040725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a156ff5f37ddd555512cc20567040725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d62300d73b861e565cfa669019bde1d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d62300d73b861e565cfa669019bde1d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5fe3421354ec94812f8cacd61bd7d2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5fe3421354ec94812f8cacd61bd7d2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/341cf1aa19db655cd0fc4fd3333ba953/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/341cf1aa19db655cd0fc4fd3333ba953/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.42] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.42.aar/9144fe81dc4b4a2c5579364224140b09/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.42] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.42.aar/9144fe81dc4b4a2c5579364224140b09/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jinatonic.confetti:confetti:1.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/confetti-1.1.1.aar/d7b121d4715cdeece182bb518d160214/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.jinatonic.confetti:confetti:1.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/confetti-1.1.1.aar/d7b121d4715cdeece182bb518d160214/AndroidManifest.xml:6:5-8:41
+MERGED from [jp.wasabeef:blurry:2.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/blurry-2.1.1.aar/7409a00dd4b0b1fddaf928db7296b91a/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:blurry:2.1.1] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/blurry-2.1.1.aar/7409a00dd4b0b1fddaf928db7296b91a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/1b37780dd77a463d6b2ab8d6d24e8340/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/3e8f010961c7c81bf84f9340573ef9a2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/1ecdd12c6e86c918ca38091f280c0b40/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/49077875da673b6f2171f37b61b99b93/AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/54c22d6098c51d33b0f867df1f218f52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/54c22d6098c51d33b0f867df1f218f52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda4e2c15edeb7ac649fc5077c3d4283/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda4e2c15edeb7ac649fc5077c3d4283/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7749a20255f6ab44ed328b119f7acf1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7749a20255f6ab44ed328b119f7acf1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/335f3621252352b271e66d0af4283cf4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/335f3621252352b271e66d0af4283cf4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/2ca532e389a127d0a908aa384bdaf75a/AndroidManifest.xml:13:13-75

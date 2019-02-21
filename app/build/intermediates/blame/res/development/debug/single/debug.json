@@ -28,10 +28,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_gold_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/gold_coin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_repeat.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/repeat.png"
     },
@@ -40,24 +36,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_home.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/home.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_15.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_15.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_gold.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_gold.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -76,28 +60,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_back.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/back.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_bag_of_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/bag_of_coins.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_20.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_20.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_pile.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_pile.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -110,10 +78,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color-v23_abc_tint_edittext.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color-v23/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_alphabet_logo_1.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/alphabet_logo_1.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_activity_sight_word.xml.flat",
@@ -176,10 +140,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_nobodys_secret_stuff_kids_8_kids_preview.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/nobodys_secret_stuff_kids_8_kids_preview.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_silver_coin.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/silver_coin.png"
     },
@@ -210,14 +170,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_grouped_pig_latin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/grouped_pig_latin.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_15.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_15.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_star_2.png.flat",
@@ -260,36 +212,16 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_check.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/check.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_20.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_20.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_abc_fade_out.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_star.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/star.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color-v23_abc_tint_default.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color-v23/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_secret_stuff_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/secret_stuff_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -298,14 +230,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_home.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/home.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_puzzle.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/puzzle.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_check.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/check.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -318,10 +242,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout-v21_notification_action.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/layout-v21/notification_action.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_gradient.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/gradient.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_design_layout_snackbar_include.xml.flat",
@@ -356,32 +276,16 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_back.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/back.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_primary_text_material_light.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_list.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/list.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_15.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_15.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/phonics_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
@@ -392,24 +296,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_pre_k_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/pre_k_sight_words_logo.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_silver_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/silver_coin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_push_up_enter.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/anim/push_up_enter.xml"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_expanded_menu_layout.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_silver.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_silver.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -432,14 +324,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/coin_silver.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_puzzle.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/puzzle.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/phonics_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_primary_text_material_dark.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_primary_text_material_dark.xml"
     },
@@ -450,10 +334,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_question_big.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/question_big.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -476,16 +356,8 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_kindergarten_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/kindergarten_sight_words_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_notification_tile_bg.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_bank.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/bank.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_design_menu_item_action_area.xml.flat",
@@ -496,20 +368,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_pre_k_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/pre_k_sight_words_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_abc_popup_exit.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_secret_stuff_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/secret_stuff_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-v21_abc_edit_text_material.xml.flat",
@@ -522,10 +386,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_star_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/star_5.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -542,10 +402,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_screen_toolbar.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_alphabet_logo_1.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/alphabet_logo_1.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_shape_instructions.xml.flat",
@@ -576,10 +432,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/grouped_pig_latin.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_question_big.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/question_big.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_partial_toolbar.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/partial_toolbar.xml"
     },
@@ -596,20 +448,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_red_truck.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/red_truck.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_design_ic_visibility.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-hdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_bag_of_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/bag_of_coins.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -622,10 +466,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_star_4.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/star_4.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -660,36 +500,16 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_truck_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/truck_coins.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_list.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/list.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_puzzle.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/puzzle.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_star_3.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/star_3.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -736,20 +556,12 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/drawable/gold_coin_94.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_10.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_10.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color-v23_abc_tint_switch_track.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color-v23/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_puzzle.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/puzzle.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_alert_dialog_material.xml.flat",
@@ -768,14 +580,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_gradient.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/gradient.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/phonics_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
@@ -784,20 +588,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_kindergarten_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/kindergarten_sight_words_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-mdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-v21/abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_star_2.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/star_2.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_design_layout_snackbar.xml.flat",
@@ -812,28 +608,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_10.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_10.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_grouped_pig_latin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/grouped_pig_latin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_truck_coins.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/truck_coins.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_star.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/star.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_bag_of_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/bag_of_coins.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_check.png.flat",
@@ -876,10 +656,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_repeat.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/repeat.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
@@ -908,10 +684,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_truck_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/truck_coins.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_design_navigation_menu.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/layout/design_navigation_menu.xml"
     },
@@ -926,14 +698,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_star.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/star.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_red_truck.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/red_truck.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_repeat.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/repeat.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -960,10 +724,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/fragment_word.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_kindergarten_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/kindergarten_sight_words_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -980,20 +740,8 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/fragment_puzzle_letter.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_10.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_10.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_activity_sentence.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/activity_sentence.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_star_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/star_5.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_nobodys_secret_stuff_kids_8_kids_preview.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/nobodys_secret_stuff_kids_8_kids_preview.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1006,10 +754,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_star_3.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/star_3.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_home.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/home.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1044,10 +788,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_star_4.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/star_4.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_tint_default.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_tint_default.xml"
     },
@@ -1058,10 +798,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_abc_slide_out_top.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_question.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/question.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1104,20 +840,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_star_3.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/star_3.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_pop_enter.xml.flat",
@@ -1136,20 +864,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_gold.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_gold.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_design_snackbar_out.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/anim/design_snackbar_out.xml"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_5.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1188,10 +908,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_pile.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_pile.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_abc_popup_enter.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/anim/abc_popup_enter.xml"
     },
@@ -1208,10 +924,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/drawable/shape_progress_simple_alphabet.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_gradient.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/gradient.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -1222,10 +934,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_search_view.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_brainy_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/brainy_phonics_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_vector_test.xml.flat",
@@ -1246,10 +954,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_secrets.jpg.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/secrets.jpg"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -1292,10 +996,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_question.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/question.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
@@ -1310,10 +1010,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_grouped_pig_latin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/grouped_pig_latin.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1332,24 +1028,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_alphabet_logo_1.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/alphabet_logo_1.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_design_layout_tab_text.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/layout/design_layout_tab_text.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_home.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/home.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_question_big.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/question_big.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_item_quiz_puzzle_letter.xml.flat",
@@ -1360,28 +1044,12 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/red_truck.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_back.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/back.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_alphabet_logo_1.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/alphabet_logo_1.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1396,14 +1064,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_repeat.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/repeat.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_secondary_text_material_light.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_secondary_text_material_light.xml"
     },
@@ -1412,32 +1072,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_question_big.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/question_big.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_repeat.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/repeat.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_question.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/question.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_5.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1468,10 +1108,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_pile.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_pile.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
@@ -1500,10 +1136,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_truck_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/truck_coins.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_tint_seek_thumb.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_tint_seek_thumb.xml"
     },
@@ -1520,16 +1152,8 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_silver_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/silver_coin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_bank.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/bank.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1552,32 +1176,12 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/drawable/shape_quiz_puzzle.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_silver.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_silver.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_brainy_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/brainy_phonics_logo.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_silver.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_silver.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_nobodys_secret_stuff_kids_8_kids_preview.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/nobodys_secret_stuff_kids_8_kids_preview.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_coin_10.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/coin_10.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_star_2.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/star_2.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1612,10 +1216,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/bank.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_gradient.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/gradient.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_seekbar_track_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_seekbar_track_material.xml"
     },
@@ -1644,10 +1244,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_grouped_pig_latin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/grouped_pig_latin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_puzzle.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/puzzle.png"
     },
@@ -1658,14 +1254,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_check.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/check.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_bank.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/bank.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_item_background_holo_light.xml.flat",
@@ -1684,16 +1272,8 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_check.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/check.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-v21_avd_hide_password.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-v21/avd_hide_password.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_home.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/home.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1704,40 +1284,16 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_truck_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/truck_coins.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_nobodys_secret_stuff_kids_8_kids_preview.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/nobodys_secret_stuff_kids_8_kids_preview.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_back.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/back.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/tooltip_frame_dark.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_kindergarten_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/kindergarten_sight_words_logo.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_red_truck.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/red_truck.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_design_snackbar_background.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1756,10 +1312,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_pile.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_pile.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_secondary_text_material_dark.xml"
     },
@@ -1768,20 +1320,8 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_fragment_answers.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/fragment_answers.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_coin_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/coin_5.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1812,10 +1352,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/question_big.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -1828,10 +1364,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_star_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/star_5.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_tint_spinner.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_tint_spinner.xml"
     },
@@ -1842,10 +1374,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color-v23_abc_tint_spinner.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_secret_stuff_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/secret_stuff_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-v21_notification_action_background.xml.flat",
@@ -1862,14 +1390,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_15.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_15.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_silver_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/silver_coin.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1928,10 +1448,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_pre_k_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/pre_k_sight_words_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_activity_letter.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/activity_letter.xml"
     },
@@ -1972,24 +1488,12 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_silver_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/silver_coin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_activity_simple_alphabet.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/activity_simple_alphabet.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_gold_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/gold_coin.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_silver.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_silver.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -2008,20 +1512,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_bag_of_coins.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/bag_of_coins.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_abc_btn_check_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_list.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/list.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color_design_tint_password_toggle.xml.flat",
@@ -2056,10 +1552,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_gold.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_gold.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_brainy_sight_words_logo.png.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/brainy_sight_words_logo.png"
     },
@@ -2092,10 +1584,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_nobodys_secret_stuff_kids_8_kids_preview.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/nobodys_secret_stuff_kids_8_kids_preview.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/select_dialog_singlechoice_material.xml"
     },
@@ -2112,10 +1600,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_pre_k_sight_words_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/pre_k_sight_words_logo.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
@@ -2130,10 +1614,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_action_bar_up_container.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_secret_stuff_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/secret_stuff_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -2156,10 +1636,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_star_2.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/star_2.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
@@ -2172,28 +1648,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_brainy_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/brainy_phonics_logo.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_bank.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/bank.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_secrets.jpg.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/secrets.jpg"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable-mdpi-v4/design_ic_visibility_off.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_coin_20.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/coin_20.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -2228,10 +1688,6 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxxhdpi/secrets.jpg"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_star_3.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/star_3.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_action_bar_title_item.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_action_bar_title_item.xml"
     },
@@ -2246,22 +1702,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable_design_fab_background.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f7cd6b6628a72f66ca23a023a78cf071/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_secrets.jpg.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/secrets.jpg"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_question.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/question.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_gold.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_gold.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_list.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/list.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -2292,20 +1732,8 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_20.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_20.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_star.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/star.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_tooltip.xml.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/layout/abc_tooltip.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_star.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/star.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/color-v23_abc_color_highlight_material.xml.flat",
@@ -2328,24 +1756,12 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_star_4.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/star_4.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_gold_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xxhdpi/gold_coin.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/phonics_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -2400,10 +1816,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -2424,16 +1836,8 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_red_truck.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/red_truck.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_star_3.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/star_3.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -2444,16 +1848,8 @@
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/anim/push_enter.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_secrets.jpg.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/secrets.jpg"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_star_2.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/star_2.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2480,16 +1876,8 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7775c23d4398b88b0f3141b1ff9c1acf/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_gold_coin.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/gold_coin.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_fragment_letter_content.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/layout/fragment_letter_content.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_star_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/star_5.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -2536,10 +1924,6 @@
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_coin_5.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/coin_5.png"
-    },
-    {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
@@ -2554,10 +1938,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/anim_zoom_in.xml.flat",
         "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/anim/zoom_in.xml"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_brainy_phonics_logo.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-mdpi/brainy_phonics_logo.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -2598,10 +1978,6 @@
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/YizraGhebre/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/556fb68ee7ce3f2cbe3a6ef6ec4bbf56/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_star_4.png.flat",
-        "source": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/res/mipmap-xhdpi/star_4.png"
     },
     {
         "merged": "/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/res/merged/development/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
