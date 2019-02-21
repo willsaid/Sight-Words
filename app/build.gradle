@@ -19,7 +19,7 @@ android {
     compileSdkVersion 27
     buildToolsVersion '28.0.2'
     defaultConfig {
-        applicationId "com.hearatale.sightwords"
+        applicationId "com.hearatale.sightword"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1
@@ -47,14 +47,14 @@ android {
     productFlavors {
         development {
             resValue "string", "app_name", "Sight-Words"
-            applicationId "com.hearatale.sightwords.dev"
+            applicationId "com.hearatale.sightword.dev"
             buildConfigField 'String', 'ISDEVELOPING', '"working"'
             dimension "development"
         }
 
         production {
             resValue "string", "app_name", "Sight-Words"
-            applicationId "com.hearatale.sightwords.production"
+            applicationId "com.hearatale.sightword.production"
             buildConfigField 'String', 'ISDEVELOPING', '"none"'
             dimension "development"
         }

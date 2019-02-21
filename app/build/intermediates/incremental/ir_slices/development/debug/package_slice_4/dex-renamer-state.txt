@@ -1,4 +1,0 @@
-#Wed Feb 20 18:14:10 EST 2019
-base.0=/Users/YizraGhebre/StudioProjects/Sight-Words/app/build/intermediates/transforms/dexMerger/development/debug/4
-path.0=classes.dex
-renamed.0=classes.dex

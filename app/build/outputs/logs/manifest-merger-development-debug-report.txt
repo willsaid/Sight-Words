@@ -36,7 +36,7 @@ INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/Android
 INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
 INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:2:1-88:12
 	package
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:3:5-39
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -104,13 +104,13 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/YizraGhebre/.gradle/cach
 	android:theme
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:10:9-36
-activity#com.hearatale.sightwords.ui.splash.SplashActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:10:9-59
+activity#com.hearatale.sightword.ui.splash.SplashActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:18:9-26:20
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:20:13-50
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:19:13-53
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:19:13-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
@@ -121,94 +121,94 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:24:27-74
-activity#com.hearatale.sightwords.ui.main.MainActivity
+activity#com.hearatale.sightword.ui.main.MainActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:28:9-31:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:31:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:30:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:29:13-49
-activity#com.hearatale.sightwords.ui.simple_alphabet.SimpleAlphabetActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:29:13-72
+activity#com.hearatale.sightword.ui.simple_alphabet.SimpleAlphabetActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:33:9-36:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:36:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:35:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:34:13-70
-activity#com.hearatale.sightwords.ui.letter.LetterActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:34:13-93
+activity#com.hearatale.sightword.ui.letter.LetterActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:38:9-41:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:41:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:40:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:39:13-53
-activity#com.hearatale.sightwords.ui.quiz.QuizActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:39:13-76
+activity#com.hearatale.sightword.ui.quiz.QuizActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:43:9-46:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:46:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:45:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:44:13-49
-activity#com.hearatale.sightwords.ui.idiom.IdiomActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:44:13-72
+activity#com.hearatale.sightword.ui.idiom.IdiomActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:48:9-51:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:51:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:50:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:49:13-51
-activity#com.hearatale.sightwords.ui.quiz_puzzle.QuizPuzzleActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:49:13-74
+activity#com.hearatale.sightword.ui.quiz_puzzle.QuizPuzzleActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:53:9-56:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:56:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:55:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:54:13-62
-activity#com.hearatale.sightwords.ui.quiz_sight_words.QuizSightWordsActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:54:13-85
+activity#com.hearatale.sightword.ui.quiz_sight_words.QuizSightWordsActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:58:9-61:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:61:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:60:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:59:13-71
-activity#com.hearatale.sightwords.ui.sight_word.SightWordActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:59:13-94
+activity#com.hearatale.sightword.ui.sight_word.SightWordActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:63:9-66:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:66:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:65:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:64:13-60
-activity#com.hearatale.sightwords.ui.sentence.SentenceActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:64:13-83
+activity#com.hearatale.sightword.ui.sentence.SentenceActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:68:9-71:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:71:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:70:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:69:13-57
-activity#com.hearatale.sightwords.ui.secret_stuff.SecretStuffActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:69:13-80
+activity#com.hearatale.sightword.ui.secret_stuff.SecretStuffActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:73:9-76:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:76:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:75:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:74:13-64
-activity#com.hearatale.sightwords.ui.bank.BankActivity
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:74:13-87
+activity#com.hearatale.sightword.ui.bank.BankActivity
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:78:9-81:53
 	android:screenOrientation
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:81:13-50
 	android:configChanges
 		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:80:13-74
 	android:name
-		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:79:13-49
+		ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:79:13-72
 meta-data#io.fabric.ApiKey
 ADDED from /Users/YizraGhebre/StudioProjects/Sight-Words/app/src/main/AndroidManifest.xml:83:9-85:72
 	android:value

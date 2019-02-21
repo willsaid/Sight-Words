@@ -29,7 +29,7 @@
             android:orientation="vertical"
             app:layout_constraintDimensionRatio="w,1:1">
 
-            <com.hearatale.sightwords.ui.widget.SquareImageView
+            <com.hearatale.sightword.ui.widget.SquareImageView
                 android:id="@+id/image_button_pre_k_sight_words"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -55,7 +55,7 @@
             android:layout_weight="1"
             android:orientation="vertical">
 
-            <com.hearatale.sightwords.ui.widget.SquareImageView
+            <com.hearatale.sightword.ui.widget.SquareImageView
                 android:id="@+id/image_button_sight_words"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -81,7 +81,7 @@
             android:layout_weight="1"
             android:orientation="vertical">
 
-            <com.hearatale.sightwords.ui.widget.SquareImageView
+            <com.hearatale.sightword.ui.widget.SquareImageView
                 android:id="@+id/image_button_secret_stuff"
                 android:layout_width="0dp"
                 android:layout_height="0dp"

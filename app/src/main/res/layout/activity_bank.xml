@@ -14,7 +14,7 @@
     <android.support.constraint.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.hearatale.sightwords.ui.bank.BankActivity">
+        tools:context="com.hearatale.sightword.ui.bank.BankActivity">
 
         <android.support.constraint.ConstraintLayout
             android:id="@+id/toolbar_layout"

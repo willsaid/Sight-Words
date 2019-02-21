@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.hearatale.sightwords.ui.custom_view.RatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.hearatale.sightword.ui.custom_view.RatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/layout_content"
     android:layout_width="wrap_content"
@@ -39,4 +39,4 @@
         android:layout_gravity="bottom|end"/>
 
 
-</com.hearatale.sightwords.ui.custom_view.RatioFrameLayout>
+</com.hearatale.sightword.ui.custom_view.RatioFrameLayout>

@@ -3,7 +3,7 @@ package com.bumptech.glide;
 import android.content.Context;
 import android.support.annotation.NonNull;
 import android.util.Log;
-import com.hearatale.sightwords.utils.glide.ArtGlideModule;
+import com.hearatale.sightword.utils.glide.ArtGlideModule;
 import java.lang.Class;
 import java.lang.Override;
 import java.lang.SuppressWarnings;
@@ -17,7 +17,7 @@ final class GeneratedAppGlideModuleImpl extends GeneratedAppGlideModule {
   GeneratedAppGlideModuleImpl() {
     appGlideModule = new ArtGlideModule();
     if (Log.isLoggable("Glide", Log.DEBUG)) {
-      Log.d("Glide", "Discovered AppGlideModule from annotation: com.hearatale.sightwords.utils.glide.ArtGlideModule");
+      Log.d("Glide", "Discovered AppGlideModule from annotation: com.hearatale.sightword.utils.glide.ArtGlideModule");
     }
   }
 

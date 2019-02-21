@@ -5,7 +5,7 @@ import android.support.annotation.NonNull;
 import com.bumptech.glide.manager.Lifecycle;
 import com.bumptech.glide.manager.RequestManagerRetriever;
 import com.bumptech.glide.manager.RequestManagerTreeNode;
-import com.hearatale.sightwords.utils.glide.GlideRequests;
+import com.hearatale.sightword.utils.glide.GlideRequests;
 import java.lang.Override;
 
 /**

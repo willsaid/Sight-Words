@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hearatale.sightwords.dev"
+    package="com.hearatale.sightword.dev"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name="com.hearatale.sightwords.Application"
+        android:name="com.hearatale.sightword.Application"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
@@ -22,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.hearatale.sightwords.ui.splash.SplashActivity"
+            android:name="com.hearatale.sightword.ui.splash.SplashActivity"
             android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,47 +31,47 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.hearatale.sightwords.ui.main.MainActivity"
+            android:name="com.hearatale.sightword.ui.main.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.simple_alphabet.SimpleAlphabetActivity"
+            android:name="com.hearatale.sightword.ui.simple_alphabet.SimpleAlphabetActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.letter.LetterActivity"
+            android:name="com.hearatale.sightword.ui.letter.LetterActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.quiz.QuizActivity"
+            android:name="com.hearatale.sightword.ui.quiz.QuizActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.idiom.IdiomActivity"
+            android:name="com.hearatale.sightword.ui.idiom.IdiomActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.quiz_puzzle.QuizPuzzleActivity"
+            android:name="com.hearatale.sightword.ui.quiz_puzzle.QuizPuzzleActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.quiz_sight_words.QuizSightWordsActivity"
+            android:name="com.hearatale.sightword.ui.quiz_sight_words.QuizSightWordsActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.sight_word.SightWordActivity"
+            android:name="com.hearatale.sightword.ui.sight_word.SightWordActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.sentence.SentenceActivity"
+            android:name="com.hearatale.sightword.ui.sentence.SentenceActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.secret_stuff.SecretStuffActivity"
+            android:name="com.hearatale.sightword.ui.secret_stuff.SecretStuffActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.hearatale.sightwords.ui.bank.BankActivity"
+            android:name="com.hearatale.sightword.ui.bank.BankActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape" />
 
@@ -81,7 +81,7 @@
 
         <provider
             android:name="com.crashlytics.android.CrashlyticsInitProvider"
-            android:authorities="com.hearatale.sightwords.dev.crashlyticsinitprovider"
+            android:authorities="com.hearatale.sightword.dev.crashlyticsinitprovider"
             android:exported="false"
             android:initOrder="90" />
     </application>
