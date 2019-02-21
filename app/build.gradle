@@ -22,8 +22,8 @@ android {
         applicationId "com.hearatale.sightwords"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 123
-        versionName "1.2.3"
+        versionCode 1
+        versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         renderscriptSupportModeEnabled true
         multiDexEnabled true
